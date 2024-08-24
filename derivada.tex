@@ -1,0 +1,64 @@
+\documentclass[final,letterpaper,twoside,12pt]{article}
+\begin{document}
+
+Una funcion $f: I \subset R$ se dice diferenciable en un punto interior $x_0 \in I$, si el limite del cociente
+diferencial
+
+$$
+f'(x_0) = \lim_{
+x \to x_0 \\
+x \in I-\{x_0\}
+} \frac{f(x) - f(x_0)}{x - x_0}
+$$
+
+existe. El limite es denotado por
+
+$$
+f'(x_0), \hspace{1cm} \frac{df}{dx} (x_0), \hspace{1cm} Df(x_0)
+$$
+
+Es tambien llamada la derivada de la funcion f en el punto interior $x_0 \in I$.
+
+La derivada $f'(x_0)$ de la funcion f en el punto $x_0$ es interpretado como la pendiente de la tangente de la curva
+y = f(x) en el punto $(x_0, f(x_0))$. De aqui la ecuacion de la tangente es
+
+$$
+y = f(x_0) + f'(x_0) \cdot (x - x_0)
+$$
+
+
+Supongamos que $f:T \to R$ es diferenciable en cada punto de un subconjunto no vacio $I_{0} \subset I$, Entonces la derivada puede ser considerada como una funcion
+
+$$
+f'_0 ; I_0 \to R
+$$
+
+Si la derivada $f': I_0 \to R$ es continua, decimos que f es continuamente diferenciable en $I_0$, y escribimos $f \in C'(I_0)$.
+
+\textbf{Diferenciación de una función implícita dada.}
+
+\hfill
+
+Sea $\Omega \subset R^2$ un conjunto abierto no vacio, y sea $F: \Omega \to R$ es una funcion continua. 
+Asumamos que $F(\cdot,y)$ es de clase $C^1$ en x para cada $y$ fijo para el cual $(x,y) \in \Omega$, y que $F(x, \cdot)$ es de clase $C^1$ en $y$ para cada $x$ fijo para el cual $(x,y) \in \Omega$.
+
+\hfill
+
+Decimos que $F \in C^1(\Omega)$, y la derivada de $F(\cdot, y)$ con respecto a $x$ para cualquier $y$ fijo
+es denotado por
+
+$$
+\frac{\partial F}{\partial x}, \hspace{1cm}, \frac{\partial F}{\partial x}(x,y), \hspace{1cm} or \hspace{1cm} 
+F'_x (x,y)
+$$
+
+Similarmente introducimos
+
+$$
+\frac{\partial F}{\partial y}, \hspace{1cm}, \frac{\partial F}{\partial y}(x,y), \hspace{1cm} or \hspace{1cm}
+F'_y (x,y)
+$$
+
+y $F'_x (x,y)$ y $F'_y (x,y)$ son llamadas las derivadas parciales de F(x,y) con respecto a $x$ y $y$.
+
+\end{document}
