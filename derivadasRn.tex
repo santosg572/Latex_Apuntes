@@ -1,0 +1,106 @@
+\documentclass[letterpaper,12pt]{article}
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+
+\begin{document}
+
+\textbf{Definicion} Sea $f : U \subset R^n \to R$ una función definida en el conjunto abierto $U$. 
+Decimos que $f$ tiene una derivada parcial en la i-ésima coordenada en $a \in U$ si el límite
+
+$$
+\lim_{h \ to 0} \frac{f(a_1, ..., a_{i-1}, a_i+h, a_{i+1}, ..., a_n)- f(a_1, ..., a_n)}{h}
+$$
+
+existe, y cuando el limite existe, denotamos su valor (el cual es un numero) por $\frac{\partial f}{\partial x_i}(a)$
+
+\hfill
+
+Mas generalmente. para $f:U \subset R^n \to R^m$ y $v \in R^n$, definimos la derivada direccional de f
+en $a \in U$ en la direccion de $v$ como
+
+$$
+D_v f(a) = \lim_{t \to 0} \frac{f(a+tv)-f(a)}{t}
+$$
+
+cada ves que el limite exista.
+
+\hfill
+
+\textbf{Definicion} Sea $f: U \subset R^n \to R^m$ es una aplicacion definida en el conjunto abierto $U$.
+Decimos que $f$ es diferenciable en $a \in U$ si existe una aplicacion lineal $T: R^n \to R^m$
+tal que
+
+$$
+\lim_{h \to 0} \frac{f(a+h) - f(a) - T(h)}{||h||} = 0
+$$
+
+En este caso, denotamos la (necesariamente unica) aplicacion linea $T$ por $df(a)$.
+Decimos que f es diferenciable en U si es diferenciable en cada punto de U.
+
+\hfill
+
+Una aplicaciion $f: U \subset R^n \to R^m$, $f=(f_1, ..., f_m)$, es diferenciable en $a \in U$ si y solo si cada funcion coordenada $f_j$ es diferenciable en $a$. Si denotamos por $f'(a)$ 
+la matriz (con respecto a la base canonica) de $df(a)$, la diferencial de f en a, entonces
+tenemos que
+
+\begin{equation}
+f'(a) = \begin{pmatrix}
+\frac{\partial f_1}{\partial x_1} (a) & \frac{\partial f_1}{\partial x_2} (a)  & ...  & \frac{\partial f_1}{\partial x_n} (a) \\
+\frac{\partial f_2}{\partial x_1} (a) & \frac{\partial f_2}{\partial x_2} (a)  & ...  & \frac{\partial f_2}{\partial x_n} (a) \\
+... & ...  & ... & ...  \\
+\frac{\partial f_m}{\partial x_1} (a) & \frac{\partial f_m}{\partial x_2} (a)  & ...  & \frac{\partial f_m}{\partial x_n} (a)
+\end{pmatrix}
+\end{equation} 
+
+La matriz $f'(a)$ es llamada matrix Jacobiana de $f$ en $a$, y en el caso que m=n, su determinante es llamado el Jacobiano de $f$ en $a$ y es denotado por $Jf(a)$.
+
+\hfill
+
+En el caso de valores escalares donde $f: U \subset \mathbb{R}^n \to \mathbb{R}$ es diferenciable en $a$, $f'(a)$ es llamado el gradiente de f en a. Usualmente este es denotado por $\nabla f(a)$ y es tratado como un vector (fila) en $\mathbb{R}^n$, es decir,
+
+
+$$
+\nabla f(a) = \left ( \frac{\partial f}{\partial x_1} (a),  \frac{\partial f}{\partial x_2} (a), ...,  \frac{\partial f}{\partial x_n} (a) \right )
+$$
+
+\textbf{Resultado.} Su un aplicacion $f: U \subset \mathbb{R}^n \to \mathbb{R}^m$ es diferenciable en $a \in U$, entonces la derivada direccional de f en $a$ en la direccion de $v$ 
+existe para cada $v \in \mathbb{R}^n$ y
+
+$$
+D_u f(a) = df(a)(v).
+$$
+
+La condición de diferenciabilidad que se da en la definición 1.2.6 no es fácil de comprobar, pero el siguiente teorema, que se puede encontrar en cualquier libro de texto sobre cálculo multivariable, proporciona una condición de suficiencia más adecuada. Primero necesitamos otra definición.
+
+\textbf{Definicion 1.2.7} Sea $f: U \subset \mathbb{R}^n \to \mathbb{R}^m$ es una aplicacion definidad en el conjunto abierto $U$. 
+Decimos que f es continuamente diferenciable en $a \in U$
+si existe un $r > 0$ tal que la bola $B(a,r)$ esta contenida en U y todas las derivadas parciales $\frac{\partial f_i}{\partial x_j}(x)$ (i=1, ..., m, j=1,...,n) existen en la bola y son continuas en $a$. Entonces $f$ se dice
+ ser de clase $C^1$ en U si esta es continuamente diferenciable en todos los puntos de $U$.
+
+\hfill
+
+\textbf{Teorema 1.2.1.} Si $f: U \subset \mathbb{R}^n \to \mathbb{R}^m$ es una aplicacion qu es continuamente diferenciable en un punto $a$ en un conjunto abierto $U$, 
+entonces f es diferenciable en $a$. En particular, si $f$ es de clase $C^1$ en el conjunto abierto $U$, entonces $f$ es diferenciable en U.
+
+\hfill
+
+Si $f: U \subset \mathbb{R}^n \to \mathbb{R}^m$ es una aplicacion de clase $C^1$ en un conjunto abierto $U$, entonces podemos considerar las 
+funciones continuas $\frac{\partial f_i}{\partial x_j}: U \to \mathbb{R}$. Nosotrso decimos que $f$ es de clase $C^2$ en $U$ si cada
+$\frac{\partial f_i}{\partial x_j}: U \to \mathbb{R}$ es de clase $C^1$ en U, es decir, si las funciones
+
+$$
+\frac{\partial}{\partial x_k} \left ( \frac{\partial f_i}{\partia x_j} \right ) (x)
+$$ 
+
+(el cual llamamos derivadas de segundo orden de $f_i$) todas existen y son continuas en U para cada i = 1,...,m y j,k=1,...n. Nosotrso denotamos la derivada
+de segundo orden pot
+
+$$
+\frac{\partial^2 f_i}{\partial x_k \partial x_j} (x)
+$$
+
+ 
+
+\end{document}
