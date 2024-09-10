@@ -1,0 +1,195 @@
+\documentclass[12pt, letterpaper, twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+
+%\usepackage{cite} % para contraer referencias
+%\usepackage[alf]{abntex2cite}
+
+\title{First document}
+\author{Hubert Farnsworth \thanks{funded by the Overleaf team}}
+\date{February 2014}
+
+\begin{document}
+
+\begin{titlepage}
+\maketitle
+\end{titlepage}
+
+
+\hrule
+
+\hfill
+
+
+libro: \cite{Woodford}
+
+\hfill
+
+\textbf{Integración numérica}
+
+\hfill
+
+\textbf{Objetivos.} En este capítulo analizamos formas de calcular una aproximación a una integral definida de una función de valor real de una sola variable, f (x) (el integrando). A veces, la integración se puede lograr usando fórmulas estándar, posiblemente después de alguna manipulación para expresar la integral en una forma particular. Sin embargo, a menudo no se pueden usar fórmulas estándar (por ejemplo, la función puede conocerse solo en un conjunto discreto de puntos) y, por lo tanto, es necesario recurrir a técnicas numéricas. Los puntos en los que se va a evaluar el integrando se conocen como puntos de cuadrícula o puntos de malla, aunque también se pueden utilizar los términos puntos de datos o simplemente puntos. Los términos cuadrícula o malla son equivalentes y generalmente se refieren a una colección o división de un intervalo en puntos de cuadrícula o puntos de malla.
+
+
+\hfill
+
+\textbf{Descripción general.} Todos los métodos que analizamos implican la aproximación de una integral con una suma ponderada de evaluaciones del integrando. Los métodos difieren en algunos o todos los siguientes aspectos:
+
+\begin{itemize}
+\item el espaciado de los puntos en los que se evalúa el integrando.
+\item los pesos asociados a las evaluaciones de funciones.
+\item la precisión que logra un método para un número determinado de evaluaciones de funciones.
+\item las características de convergencia del método (cómo mejora la aproximación con la adición de nuevos valores de función). En particular miramos
+\item la regla del trapecio.
+\item La regla de Simpson.
+\item Reglas de Newton-Cotes.
+\item Cuadratura gaussiana.
+\item cuadratura adaptativa.
+\end{itemize}
+
+\hfill
+
+\textbf{Habilidades adquiridas} Después de leer este capítulo, podrá estimar valores de integrales definidas de una amplia gama de funciones. Aunque los métodos que tendrá a su disposición le darán un resultado aproximado, no obstante podrá juzgar el nivel de precisión. Además, podrá hacer una elección informada del método a utilizar en cualquier aplicación determinada.
+
+\section{Introducción}
+
+Hay varias fórmulas estándar disponibles para evaluar, analíticamente, integrales definidas. Un ejemplo particular lo proporciona
+
+\[
+\int_a^b x^k dx = \left [ \frac{x^{k+1}}{k+1} \right ]_a^b = \frac{1}{k+1}[b^{k+1} - a^{k+1}]
+\]
+
+de modo que, por ejemplo, $\int_0^1 x dx = \frac{1}{2}$. Además, hay una serie de técnicas estándar para manipular una integral para que coincida con una de estas fórmulas. Un caso particular es la técnica de integración por partes:
+
+\[
+\int_a^b u(x) \frac{dv(x)}{dx} dx = [u(x) v(x))]_a^b - \int_a^b v(x) \frac{du(x)}{dx} dx
+\]
+
+que se puede utilizar, por ejemplo, para derivar el resultado
+
+\[
+\int_0^1 x e^x dx = x e^x |_0^1 - \int e^x dx = e-e+1 = 1
+\]
+
+Sin embargo, los problemas prácticos a menudo involucran un integrando (la función a integrar) para el cual no existe una forma analítica conocida. 
+La integral $\int e^{-t^2}$  es un ejemplo. Por otro lado, pueden surgir integrales que implican un integrando que requiere un esfuerzo considerable para reducirlo a la forma estándar, por lo que una aproximación numérica puede ser más práctica.
+
+\subsection{Integración de funciones tabuladas}
+
+Para ilustrar los métodos para tratar con funciones cuyos valores solo están disponibles en varios puntos, consideramos el siguiente problema.
+
+\hfill
+
+\textbf{Problema}
+
+\hfill
+
+Una empresa tiene un contrato para construir un barco, cuyo coste estará en función, entre otras cosas, de la superficie de la cubierta. La cubierta es simétrica respecto a una línea trazada desde la punta de la proa hasta la punta de la popa (Fig. 5.1), por lo que es suficiente determinar el área de la mitad de la cubierta y luego duplicar el resultado. El barco tiene 235 metros de largo. La Tabla 5.1 proporciona medias manga (distancias desde el centro de la cubierta hasta el borde) en varios puntos de la cuadrícula a lo largo de la línea central, medidos a partir del dibujo de un delineante de la embarcación propuesta. Los puntos de la cuadrícula se miden a intervalos de 23,5 metros. Dada esta información, el problema, al que posteriormente nos referiremos como el problema del constructor de barcos, es encontrar el área de la superficie de la cubierta.
+
+
+\subsection{La regla del trapecio}
+
+The data in Table 5.1 gives some idea of the shape of the ship but is incomplete since the precise form of the hull between any two grid points is not defined. However, it is reasonable to assume that the shape is fairly regular and that whilst some curvature is likely, this is so gradual that, as a first approximation, a straight edge may be assumed. This is the basis of the trapezium rule.
+
+\hfill
+
+\textbf{Problema}
+
+\hfill
+
+Resuelve el problema del constructor de barcos usando la regla del trapecio.
+
+\hfill
+
+\textbf{Solución}
+
+\hfill
+
+
+El área entre los puntos de cuadrícula 0 y 1 y entre los puntos de cuadrícula 9 y 10 se encuentra usando la fórmula para el área de un triángulo, 
+y el área entre los puntos de cuadrícula 1 y 2, 2 y 3, y así sucesivamente hasta 8 y 9 se encuentra usando la fórmula para el área de un trapecio, 
+a saber, área de un trapecio = la mitad de la suma de los lados paralelos $\times$ la distancia entre ellos. 
+
+\hfill
+
+Por ejemplo, el área entre los puntos 4 y 5 de la cuadrícula viene dada por $\frac{16.26+16.36}{2} \times 23,5 = 383.25 m^2$. 
+Para determinar el área total de la superficie, simplemente sumamos las áreas entre los puntos de cuadrícula consecutivos. 
+Los cálculos (sin las unidades) se muestran en la Tabla 5.2. El área total (de la mitad de la cubierta) se encuentra en 2631.06 $m^2$.
+
+\hfill
+
+\textbf{Discución}
+
+\hfill
+
+Para resumir matemáticamente este enfoque, consideramos la figura 5.1 como un gráfico, con el eje x corriendo a lo largo del 
+centro del barco y los puntos de la cuadrícula a lo largo del eje x. Entonces, el eje y representa los medios anchos. Dejamos $x_i : i = 0, 1, .... , 10$
+ representan puntos en los que se conocen semianchos $f_i$, de modo que, por ejemplo, $x_2$ = 47 m y $f_2$ = 8,74 m. 
+Dejamos que $h_i$ sea la distancia entre los puntos $x_i$ y $x_{i+1}$ (en este ejemplo $h_i$ = 23.5, i = 0, 1, ... , 9). 
+Además, dejamos que $A_i$ sea el área del trapecio definida por los lados paralelos al eje y comenzando en los 
+puntos $x_i$ y $x_{i+1}$ en el eje x. Entonces tenemos la fórmula
+
+\[
+A_i = h_i(f_i + f_{i+1})/2
+\]
+
+de modo que, por ejemplo, $A_4 = 383.29 m^2$. Por eso
+
+\[
+\text{Area Total} = \sum_{i=0}^9 A_i
+\]
+
+lo cual es válido aunque dos de los trapecios tengan un lado de longitud cero (es decir, los trapecios son triángulos).
+
+Podemos ver en la tabla 5.2 que en la suma total cada uno de los semianchos correspondientes a una sección interna (es decir, una sección distinta de x0 y x10) se cuenta dos veces. Además, si todos los espaciamientos hi tienen el mismo valor, h tenemos la fórmula alternativa
+
+\[
+\textbf{Area Total} = h \sum_{i=0}^n f_i
+\]
+
+ 
+\subsection{Reglas de cuadratura}
+
+En el ejemplo anterior, los triángulos y el trapecio se conocen como paneles. Las fórmulas como (5.1), que se basan en las áreas de los paneles, se conocen como reglas de cuadratura. Cuando una regla de cuadratura se deriva de la combinación de varias reglas simples, como en (5.2), (5.3) o (5.4), nos referimos a una regla compuesta (cuadratura). En general, una regla compuesta basada en n+1 puntos toma la forma
+
+\[
+\text{Area Total} = \sum_{i=0}^n w_i f_i
+\]
+
+Nos referimos a tales reglas, que son una combinación lineal de un conjunto de observaciones fi en las que los wi son los pesos, como reglas de n puntos (contando desde cero) o reglas de n paneles. La regla de los dos puntos (5.1) que determina el área de un trapecio es comprensiblemente llamada regla del trapecio. Para la regla del trapecio compuesto, los pesos en (5.5) vienen dados por w0 = wn = h/2 y wi = h para $i \neq 0$ o n. Tenga en cuenta que el término regla de trapecio compuesto a menudo se abrevia como regla de trapecio.
+
+La primera solución al problema del constructor de barcos supuso que era seguro aproximarse a la forma del casco mediante líneas rectas. Esto parece razonable, particularmente en la sección central, pero es menos defendible en la proa y la popa.
+
+Para mejorar la situación (sin ninguna justificación, por el momento) empleamos una fórmula similar a (5.3), pero cambiamos la ponderación. Esto forma la base de la Regla de Simpson1 que ilustramos en el siguiente problema.
+
+\subsection{Regla de Simpson}
+
+\textbf{Problema}
+
+\hfill
+
+Resuelve el problema del constructor de barcos usando la regla de Simpson.
+
+\hfill
+
+\textbf{Solución}
+
+\hfill
+
+Esta vez, a los puntos finales de la cuadrícula se les asigna un peso de $\frac{h}{3}$, a los puntos internos de la cuadrícula con números impares se les asigna un peso de $\frac{4h}{3}$, mientras que a los puntos de la cuadrícula internos con números pares se les asigna un peso de $\frac{2h}{3}$, para obtener la fórmula
+
+\[
+\text{Area Total} = \frac{h}{3}(f_0 + 4 \sum_{i=1)^5 f_{2i-1} + 2 \sum_{i=1}^4 f_{2i} + f_{10})
+\]
+
+
+
+\hfill
+
+\bibliographystyle{acm}
+\bibliography{biblio}
+
+\end{document}
+

@@ -1,0 +1,219 @@
+\documentclass[11pt]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{lipsum}
+\usepackage{ragged2e}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage{url}
+\usetheme{Madrid}
+\newcommand{\celda}[1]{
+	\begin{minipage}{2.5cm}
+		\vspace{5mm}
+		#1
+		\vspace{5mm}
+	\end{minipage}
+}
+
+\author[santosg172@gmail.com]{L. González-Santos\inst{1}}
+\title[Aplicación a la IA]{PROBLEMAS DE CALCULO VECTORIAL}
+\date{\today} 
+%\subtitle{Un aporte para la comunidad de Aprendiendo \LaTeX}
+%\logo{\includegraphics[scale=0.0375]{sm.png}}
+%\institute[UNMSM]{
+%	\inst{1}
+%		Universidad Nacional Mayor de San Marcos. Facultad de Ciencias %Matemáticas. \\Escuela Profesional de Computación Científica\\
+%		\vspace{2mm}
+%	\inst{2}
+%		Universidad Nacional Mayor de San Marcos. Facultad de Ciencias %Matemáticas. \\Escuela Profesional de Estadística
+%}
+
+\AtBeginSection[]
+{
+	\begin{frame}<beamer>{Contenido}
+		\tableofcontents[currentsection,currentsubsection]
+	\end{frame}
+}
+
+
+\begin{document}
+	
+	\begin{frame}
+		\maketitle
+	\end{frame}
+
+	\begin{frame}{Contenido}
+		\tableofcontents
+	\end{frame}
+
+%	\section{Resumen}
+%		\begin{frame}{Resumen}
+%			\justifying
+%			\lipsum[3]
+%		\end{frame}
+	
+	\section{Introducción}
+		
+		\begin{frame}{Introducción}
+			\justifying
+			
+		El péndulo matemático planar consiste en una barra, suspendida en un punto fijo en un plano vertical en el que el péndulo puede moverse. Se piensa que toda la masa está concentrada en un punto de masa al final de la barra (vea la figura 1.1), y la barra en sí no tiene masa. También se supone que la varilla está rígida. El péndulo tiene masa $m$ y longitud $l$. Además, asumimos que la suspensión es tal que el péndulo no solo puede oscilar, sino que también puede ir "por encima". En el caso sin forzamiento externo, hablamos del péndulo libre.
+
+
+		\end{frame}
+	
+\section{1.1.1.1 The free undamped pendulum}	
+
+\begin{frame}{Introducción}
+			\justifying
+			
+En el caso sin amortiguamiento y forzado, el péndulo solo está sujeto a la gravedad, con aceleración $g$: La fuerza gravitacional apunta verticalmente hacia abajo con fuerza $mg$ y tiene un componente $-mg \sin \varphi$ a lo largo del círculo descrito por la masa puntual; consulte la figura 1.1. Aquí $\varphi$ es el ángulo entre la barra y la vertical hacia abajo, a menudo llamado 'desviación', expresado en radianes. La distancia de la masa puntual desde la 'posición de reposo' ($\varphi$ = 0), medida a lo largo del círculo de todas sus posibles posiciones, es entonces $l \varphi$. La relación entre fuerza y movimiento está determinada por la famosa ley de Newton $F = ma$,  donde F denota la fuerza, $m$ la masa y $a$ la aceleración.
+
+
+\end{frame}
+	
+\begin{frame}{Introducción}
+			\justifying
+Debido a la rigidez de la barra, no se produce movimiento en la dirección radial y, por lo tanto, solo aplicamos la ley de Newton en la dirección '. La componente de la fuerza en la $\varphi$-dirección. La componente de la fuerza en la $\varphi$-dirección está dada por $-mg \sin \varphi$, donde el signo menos representa el hecho de que la fuerza está impulsando el péndulo de regreso a $\varphi$ = 0. Para la aceleración $a$ tenemos
+
+\[
+a = \frac{d^2 (l \varphi)}{dt^2} = l \frac{d^2 \varphi}{dt^2}
+\]
+
+donde $(d^2 \varphi / dt^2)(t) = \varphi''(t)$ es la segunda derivada de la función $t \mapsto  \varphi(t)$.
+
+Substituyendoesto en la Ley de Newton da:
+
+\[
+ml \varphi'' = -mg \sin \varphi
+\]
+
+o, equivalentemente,
+
+\[
+\varphi'' = - \frac{g}{l} \sin \varphi
+\]
+
+			
+\end{frame}
+
+\begin{frame}{Introducción}
+			\justifying
+donde obviamente $m, l > 0$. Así derivamos la ecuación de movimiento del péndulo, que en este caso es una ecuación diferencial ordinaria. Esto significa que las evoluciones vienen dadas por las funciones $t \mapsto  \varphi(t)$ que satisfacen la ecuación de movimiento (1.1). En la continuación abreviamos $\omega = \sqrt{g/l}$.	
+
+\hfill
+
+Observe que en la ecuación de movimiento (1.1) ya no aparece la masa $m$. Esto significa que la masa no tiene influencia en las posibles evoluciones de este sistema. Según la tradición, como hecho experimental esto ya lo sabía Galileo, antecesor de Newton en cuanto al desarrollo de la mecánica clásica.
+
+		
+\end{frame}
+
+\begin{frame}{Introducción}
+			\justifying
+
+Observación. (Digresión sobre ecuaciones diferenciales ordinarias I). En el ejemplo anterior, la ecuación de movimiento es una ecuación diferencial ordinaria. Con respecto a las soluciones de tales ecuaciones hacemos la siguiente digresión.
+
+\begin{enumerate}
+\item De la teoría de las ecuaciones diferenciales ordinarias (p. ej., véase [16, 69, 118, 144]) se sabe que una ecuación diferencial ordinaria de este tipo, dadas las condiciones iniciales o un estado inicial, tiene una solución determinada de manera única. Debido a que la ecuación diferencial tiene orden dos, el estado inicial en t=0 D está determinado por los dos datos $\varphi(0)$ y $\varphi'(0)$, por tanto, tanto la posición como la velocidad en el tiempo t=0. La teoría dice que, dado tal estado inicial, ¡existe exactamente una solución $t \mapsto  \varphi(t)$, matemáticamente hablando una función, también llamada 'movimiento'. 
+
+
+
+\end{enumerate}
+			
+\end{frame}
+
+\begin{frame}{Introducción}
+			\justifying
+Esto significa que la posición y la velocidad en el instante t=0 determinan el movimiento para todo el tiempo futuro. En la discusión posterior en este capítulo, sobre el espacio de estados de un sistema dinámico, mostramos que en el caso del péndulo presente los estados están dados por parejas $(\varphi, \varphi')$. Esto implica que la evolución, estrictamente hablando, es un mapa $t \mapsto (\varphi(t), \varphi'(t))$, donde $t \mapsto  \varphi(t)$ satisface la ecuación de movimiento (1.1). El plano con coordenadas $(\varphi, \varphi')$ a menudo se llama el plano de fase. El hecho de que el estado inicial del péndulo esté determinado para todo el tiempo futuro, significa que el sistema del péndulo es determinista.			
+\end{frame}
+
+\begin{frame}{Introducción}
+			\justifying
+2. Entre la existencia y la construcción explícita de soluciones de una ecuación diferencial hay una gran brecha. De hecho, solo para sistemas bastante simples,7 como el oscilador armónico con ecuación de movimiento
+
+\[
+\varphi'' = - \omega^2 \varphi
+\]
+			
+\end{frame}
+
+\begin{frame}{Introducción}
+			\justifying
+			
+\end{frame}
+
+\begin{frame}{Introducción}
+			\justifying
+			
+\end{frame}
+
+\begin{frame}{Introducción}
+			\justifying
+			
+\end{frame}
+
+\begin{frame}{Introducción}
+			\justifying
+			
+\end{frame}
+
+\begin{frame}{Introducción}
+			\justifying
+			
+\end{frame}
+
+\begin{frame}{Introducción}
+			\justifying
+			
+\end{frame}
+
+
+
+
+			
+%\appendix
+\section{Referencias}
+%\subsection<presentation>*{Referencias}
+
+\begin{frame}{Referencias}
+
+\begin{thebibliography}{10}
+	
+	\beamertemplatearticlebibitems
+	% imagen de libro
+	
+	\bibitem{Author1990}
+	Kung Ching Chang
+	\newblock{\em Infinite Dimensional Morse Theory and Multiple Solution Problems}.
+	\newblock{Vol. 6. Progres in nonlinear Diferential Equation and Their Aplications. Boston, Birkhauser, 1991.}
+	
+	
+	\beamertemplatebookbibitems
+	% imagen de revista, paper o artículo
+	
+	\bibitem{Author19901}
+	Kanischka Perera.
+	\newblock{\em Nontrivial groups in p-Laplacian problems via the Yang index}.
+	\newblock{The \LaTeX\ Companion. In Topol. Methodos Nolinear Anal. 21.2 (2003) , pp 301-303}
+	
+	
+	\beamertemplateonlinebibitems
+	% imagen de una URL de internet
+	
+	\bibitem{Author2019}
+	Aprendiendo \LaTeX
+	\newblock{\em Página de Facebook}.
+	\newblock{Manuel Merino}
+	
+	
+	
+	
+	
+\end{thebibliography}
+\end{frame}
+\end{document}
+

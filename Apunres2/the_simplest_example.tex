@@ -1,0 +1,214 @@
+\documentclass[11pt]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{lipsum}
+\usepackage{ragged2e}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage{url}
+\usetheme{Madrid}
+\usepackage{mathrsfs} 
+
+\newcommand{\celda}[1]{
+	\begin{minipage}{2.5cm}
+		\vspace{5mm}
+		#1
+		\vspace{5mm}
+	\end{minipage}
+}
+
+\author[santosg172@gmail.com]{L. Gonzáxxlez-Santos\inst{1}}
+\title[Aplicación a la IA]{El ejemplo más simple}
+\date{\today} 
+%\subtitle{Un aporte para la comunidad de Aprendiendo \LaTeX}
+%\logo{\includegraphics[scale=0.0375]{sm.png}}
+%\institute[UNMSM]{
+%	\inst{1}
+%		Universidad Nacional Mayor de San Marcos. Facultad de Ciencias %Matemáticas. \\Escuela Profesional de Computación Científica\\
+%		\vspace{2mm}
+%	\inst{2}
+%		Universidad Nacional Mayor de San Marcos. Facultad de Ciencias %Matemáticas. \\Escuela Profesional de Estadística
+%}
+
+\AtBeginSection[]
+{
+	\begin{frame}<beamer>{Contenido}
+		\tableofcontents[currentsection,currentsubsection]
+	\end{frame}
+}
+
+
+\begin{document}
+	
+	\begin{frame}
+		\maketitle
+	\end{frame}
+
+	\begin{frame}{Contenido}
+		\tableofcontents
+	\end{frame}
+
+%	\section{Resumen}
+%		\begin{frame}{Resumen}
+%			\justifying
+%			\lipsum[3]
+%		\end{frame}
+	
+	\section{Introducción}
+		
+		\begin{frame}{Introducción}
+			\justifying
+			
+La ecuación diferencial familiar para todos los estudiantes de cálculo es
+
+\[
+\frac{dx}{dt} = ax
+\]
+
+es la ecuación diferencial más simple. También es uno de los más importantes. Primero, ¿qué significa? Aquí x = x(t) es una función desconocida de valor real de una variable real t y dx/dt es su derivada (también usaremos x’ o x’(t) para la derivada). Además, $a$ es un parámetro; para cada valor de $a$ tenemos una ecuación diferencial diferente. La ecuación nos dice que para todo valor de t la relación
+
+\[
+x’(t ) = ax(t)
+\]
+
+es verdadera.
+
+
+		\end{frame}
+
+
+
+\begin{frame}{Introducción}
+			\justifying
+
+Las soluciones de esta ecuación se obtienen del cálculo: si k es cualquier número real, entonces la función $x(t) = ke^{at}$ es una solución ya que
+
+\[
+x’(t) = ake^{at} = ax(t).
+\]
+
+Además, no hay otras soluciones. Para ver esto, sea $u(t)$ cualquier solución y calcule la derivada de $u(t)e^{-at}$ :
+
+\begin{align*}
+\frac{d}{dt} (u(t) e^{-at}) &= u'(t) e^{-at} + u(t) (-a e^{-at}) \\
+&= au(t) e^{-at} - au(t) e^{-at} = 0
+\end{align*}
+
+
+
+			
+\end{frame}
+
+\begin{frame}{Introducción}
+			\justifying
+	
+Por lo tanto $u(t )e^{-at}$ es una constante k, entonces $u(t) = ke^{at}$ . Esto prueba nuestra afirmación. Por lo tanto, hemos encontrado todas las posibles soluciones de esta ecuación diferencial. A la colección de todas las soluciones de una ecuación diferencial la llamamos solución general de la ecuación.
+
+\hfill
+
+La constante k que aparece en esta solución está completamente determinada si se especifica el valor $u_0$ de una solución en un solo punto $t_0$. Suponga que también se requiere una función x(t) que satisfaga la ecuación diferencial para satisfacer $x(t_0) = u_0$. Entonces debemos tener $ke^{at_0} = u_0$, de modo que $k = u_0e^{-at_0}$. Por lo tanto, hemos determinado k y, por lo tanto, esta ecuación tiene una solución única que satisface la condición inicial especificada $x(t_0) = u_0$. Por simplicidad, a menudo tomamos $t_0 = 0$; entonces $k = u_0$. No hay pérdida de generalidad al tomar $t_0 = 0$, porque si $u(t)$ es una solución con $u(0) = u_0$, entonces la función $v(t) = u(t - t_0)$ es una solución con $v(t_0) ) = u_0$.
+
+		
+\end{frame}
+
+\begin{frame}{Introducción}
+			\justifying
+	
+Es común reformular esto en forma de un problema de valor inicial:
+
+\[
+x’ = ax, \hspace{5mm} x(0) = u_0.
+\]
+
+Una solución $x(t)$ de un problema de valor inicial no solo debe resolver la ecuación diferencial, sino que también debe tomar el valor inicial prescrito $u_0$ en t = 0.
+
+\hfill
+
+Tenga en cuenta que hay una solución especial de esta ecuación diferencial cuando k = 0.
+
+\hfill
+
+Esta es la solución constante $x(t ) \equiv 0$. Una solución constante como esta se llama solución de equilibrio o punto de equilibrio para la ecuación. Los equilibrios se encuentran a menudo entre las soluciones más importantes de las ecuaciones diferenciales.
+
+		
+\end{frame}
+
+\begin{frame}{Introducción}
+			\justifying
+	La constante $a$ en la ecuación $x’ = ax$ puede considerarse un parámetro.
+
+Si $a$ cambia, la ecuación cambia y también lo hacen las soluciones. ¿Podemos describir cualitativamente la forma en que cambian las soluciones? El signo de $a$ es crucial aquí:
+
+\begin{enumerate}
+\item If $a > 0, \lim_{t \to \infty} k e^{at}$ equals $\infty$ when $k > 0$, and equals $- \infty$ when $k < 0$;
+
+\item If $a = 0, ke^{at}$ = constant;
+
+\item If $a < 0, \lim_{t \to \infty} k e^{at}=0$
+
+\end{enumerate}		
+\end{frame}
+
+\begin{frame}{Introducción}
+			\justifying
+			
+El comportamiento cualitativo de las soluciones se ilustra vívidamente dibujando las gráficas de las soluciones como en la figura 1.1. Tenga en cuenta que el comportamiento de las soluciones es bastante diferente cuando a es positivo y negativo. Cuando $a > 0$, todas las soluciones distintas de cero tienden a alejarse del punto de equilibrio en 0 a medida que t aumenta, mientras que cuando $a < 0$, las soluciones tienden hacia el punto de equilibrio. Decimos que el punto de equilibrio es una fuente cuando las soluciones cercanas tienden a alejarse de él. El punto de equilibrio es un sumidero cuando las soluciones cercanas tienden hacia él.
+
+			
+\end{frame}
+
+\begin{frame}{Introducción}
+			\justifying
+			
+\end{frame}
+
+
+
+
+			
+%\appendix
+\section{Referencias}
+%\subsection<presentation>*{Referencias}
+
+\begin{frame}{Referencias}
+
+\begin{thebibliography}{10}
+	
+	\beamertemplatearticlebibitems
+	% imagen de libro
+	
+	\bibitem{Author1990}
+	Kung Ching Chang
+	\newblock{\em Infinite Dimensional Morse Theory and Multiple Solution Problems}.
+	\newblock{Vol. 6. Progres in nonlinear Diferential Equation and Their Aplications. Boston, Birkhauser, 1991.}
+	
+	
+	\beamertemplatebookbibitems
+	% imagen de revista, paper o artículo
+	
+	\bibitem{Author19901}
+	Kanischka Perera.
+	\newblock{\em Nontrivial groups in p-Laplacian problems via the Yang index}.
+	\newblock{The \LaTeX\ Companion. In Topol. Methodos Nolinear Anal. 21.2 (2003) , pp 301-303}
+	
+	
+	\beamertemplateonlinebibitems
+	% imagen de una URL de internet
+	
+	\bibitem{Author2019}
+	Aprendiendo \LaTeX
+	\newblock{\em Página de Facebook}.
+	\newblock{Manuel Merino}
+	
+	
+	
+	
+	
+\end{thebibliography}
+\end{frame}
+\end{document}
+
