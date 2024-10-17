@@ -1,0 +1,4 @@
+https://www.math-linux.com/latex/faq/latex-faq/article/how-to-write-matrices-in-latex-matrix-pmatrix-bmatrix-vmatrix-vmatrix
+https://www.overleaf.com/learn/latex/Matrices
+
+

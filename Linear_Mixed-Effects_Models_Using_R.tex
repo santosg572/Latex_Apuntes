@@ -1,0 +1,120 @@
+\documentclass[10pt]{extarticle} % Note the extarticle document class
+% Using the geometry package with a small
+% page size to create the article graphic
+\usepackage[paperheight=6in,
+   paperwidth=5in,
+   top=10mm,
+   bottom=20mm,
+   left=10mm,
+   right=10mm]{geometry}
+\usepackage{lipsum}
+
+
+\usepackage{amsmath}
+
+\begin{document}
+
+$y_i$ (i=1,..., n)
+
+e4.1
+
+$$
+	y_i = x_i^{(1)} \beta_1 + ... + x_i^{(p)} \beta_p + \varepsilon_i
+$$
+
+e4.2
+
+$$
+\varepsilon \approx N(0, \sigma^2)
+$$
+
+$x_i^{(1)}, ..., x_i^{(p)}$ ($p < n$
+
+$\beta_1, ..., \beta_p$
+
+$\mathbf{x}_i = (x_i^{(1)}, ..., x_i^{(p)})'$
+
+$\mathbf{\beta} = (beta_1, ..., \beta_p)'$
+
+e4.3
+
+$$
+y_i = \mathbf{x_i' \beta} + \varepsilon_i
+$$
+
+e4.4
+
+$$
+\begin{matrix}
+E(y_i) = \mu_i = \mathbf{x_i' \beta}  \\
+Var(y_i) = \sigma^2
+\end{matrix}
+$$
+
+$$
+\mathbf{y} \equiv
+\begin{pmatrix}
+y_1 \\
+\vdots \\
+y_n
+\end{pmatrix} 
+$$
+
+e4.6
+
+$$
+\mathbf{X \equiv
+\begin{pmatrix}
+x'_1 \\
+\vdots \\
+x'_n
+\end{pmatrix}} =
+\begin{pmatrix}
+x_1^{(1)} & x_1^{(2)} & ... & x_1^{(p)}  \\
+\vdots & \vdots & ... & \vdots \\
+x_n^{(1)} & x_n^{(2)} & ... & x_n^{(p)} 
+\end{pmatrix} \equiv (\mathbf{x}^{(1)} \mathbf{x}^{(2)} ... \mathbf{x}^{(p)})
+$$
+
+e4.7
+
+$$
+\mathbf{y = X \beta + \varepsilon}
+$$
+
+e4.8
+
+$$
+\mathbf{\varepsilon} \approx N_n(\mathbf{0, R)}
+$$
+
+4.3 Offset
+
+e4.9
+
+$$
+y_i = x^{(0)}_i +x^{(1)}_i \beta_1 +...+ x^{(p)}_i \beta_p + \varepsilon_i,
+$$
+
+4.10
+
+$$
+\mathbf{y = x^{(0)} + X \beta + \varepsilon,
+$$
+
+$\mathbf{x}^(0) \equiv (x^{(0)}_1, ..., x^{(0)}_n )$
+
+4.4 Estimation
+
+4.4.1 Ordinary Least Squares
+
+4.11
+
+$$
+\sum_{i=1}^n (y_i - \mathbf{x'_i \beta)})^2
+$$
+
+
+
+
+\end{document}
