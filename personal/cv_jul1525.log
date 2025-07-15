@@ -1,0 +1,352 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  15 JUL 2025 09:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**cv_jul1525.tex
+(./cv_jul1525.tex
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tree-dvips/lingmacros.sty
+\c@enums=\count88
+\widelabel=\dimen103
+\c@tempcnt=\count89
+\c@enumsi=\count90
+\eeindent=\dimen104
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tree-dvips/tree-dvips.sty
+tree-dvips version .91 of May 16, 1995
+\nodemargin=\dimen105
+\treelinewidth=\dimen106
+\dashlength=\dimen107
+\arrowwidth=\dimen108
+\arrowlength=\dimen109
+\arrowinset=\dimen110
+\pos@t=\toks14
+\pos@b=\toks15
+\pos@l=\toks16
+\pos@r=\toks17
+\pos@tl=\toks18
+\pos@tr=\toks19
+\pos@bl=\toks20
+\pos@br=\toks21
+\@arrow=\count91
+\@tempdimc=\dimen111
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count92
+\Gm@cntv=\count93
+\c@Gm@tempcnt=\count94
+\Gm@bindingoffset=\dimen112
+\Gm@wd@mp=\dimen113
+\Gm@odd@mp=\dimen114
+\Gm@even@mp=\dimen115
+\Gm@layoutwidth=\dimen116
+\Gm@layoutheight=\dimen117
+\Gm@layouthoffset=\dimen118
+\Gm@layoutvoffset=\dimen119
+\Gm@dimlist=\toks23
+)
+(./cv_jul1525.aux)
+\openout1 = `cv_jul1525.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69684pt, 56.90553pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23582pt, 56.90552pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69684pt
+* \textheight=731.23582pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+[1
+
+
+Non-PDF special ignored!
+<special> header=tree-dvips91.pro
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2]
+Overfull \hbox (9.13216pt too wide) in paragraph at lines 192--194
+\OT1/cmr/m/n/12 CEPCI[]ON TEM-PO-RAL Y TAR-EAS R[]ITMICAS MO-TORAS", DOC-TOR-AD
+O EN CIEN-
+ []
+
+
+Overfull \hbox (26.59174pt too wide) in paragraph at lines 195--197
+\OT1/cmr/m/n/12 ES-TADO DE RE-POSO DEL CLAUS-TRUM", DOC-TOR-ADO EN CIEN-CIAS BI
+OM[]EDICAS,
+ []
+
+[3]
+Overfull \hbox (18.23625pt too wide) in paragraph at lines 202--204
+\OT1/cmr/m/n/12 A COM-PO-NENTES DE LA RE-SPUESTA EM-PAT-ICA EN PSI-COTER-APEU-T
+AS, Cr^^Seditos
+ []
+
+[4] [5] [6] [7]
+Overfull \hbox (7.8018pt too wide) in paragraph at lines 429--432
+[]\OT1/cmr/m/n/12 8. Trujillo-Villarreal, Cruz-Carrillo, G., Angeles-Valdez, D.
+, Garza-Villarreal, E.A., Camacho-
+ []
+
+
+Overfull \hbox (11.89067pt too wide) in paragraph at lines 440--443
+[]\OT1/cmr/m/n/12 11. Olalde-Mathieu, V.E., Licea-Haquet, G.,L., Al-cauter, S.,
+ Atilano-Barbosa, D., Dominquez-
+ []
+
+[8] [9]
+Overfull \hbox (4.84491pt too wide) in paragraph at lines 513--516
+[]\OT1/cmr/m/n/12 30. Laz-cano, I., Cisneros-Mejorado, A., Con-cha, L., Jos^^Se
+ Ortiz-Retana, J.J., Garza-Villarreal,
+ []
+
+
+Overfull \hbox (7.5691pt too wide) in paragraph at lines 538--541
+\OT1/cmr/m/n/12 rived From Le-sions of Prelem-nis-cal Fiber Tract Com-po-nents"
+, OP-ER-A-TIVE NEU-RO-SURGERY,
+ []
+
+
+Overfull \hbox (24.77432pt too wide) in paragraph at lines 542--545
+\OT1/cmr/m/n/12 Func-tional Con-nec-tomes in Attention-Deficit/Hyperactivity Di
+s-or-der", March-April, 7(2) ENEURO,
+ []
+
+[10]
+Overfull \hbox (0.8866pt too wide) in paragraph at lines 589--592
+[]\OT1/cmr/m/n/12 51. Sarael Al-cauter, Lil-iana Garc^^S^^Pa-Mondrag^^Sona, Zeu
+s Gracia-Tabuenca, Martha B. Moreno,
+ []
+
+[11]
+Overfull \hbox (3.98848pt too wide) in paragraph at lines 628--631
+[]\OT1/cmr/m/n/12 62. PASAYE E.H, GUTI[]ERREZ R.A., S. AL-CAUTER S., MER-CADILL
+O R.E., AGUILAR-
+ []
+
+[12]
+Overfull \hbox (0.7037pt too wide) in paragraph at lines 657--660
+\OT1/cmr/m/n/12 Oliv-era, B., M., Aguilar, M.B., Amino acid se-quence and bi-o-
+log-i-cal ac-tiv-ity of a gama-conotoxin-
+ []
+
+
+Overfull \hbox (1.36577pt too wide) in paragraph at lines 667--670
+[]\OT1/cmr/m/n/12 73. Luna, M., Bar-raza, N., Beru-men, L., Car-ranza, M., Ped-
+ern-era, E., Har-vey, S., Ar^^Samburo,
+ []
+
+[13] [14] [15]
+Overfull \hbox (6.02457pt too wide) in paragraph at lines 800--803
+\OT1/cmr/m/n/12 toar-chi-tec-ture", V Con-greso Na-cional de Neu-ro-bi-olog^^S^
+^Pa y de la So-ciedad Mex-i-cana de Bioqu^^S^^Pmica,
+ []
+
+[16] [17] [18] [19]
+Overfull \hbox (17.6445pt too wide) in paragraph at lines 1024--1027
+\OT1/cmr/m/n/12 GEN-ER-A-TION THER-APY IN A HEMI-PARKINSON DIS-EASE MODEL", Jor
+-nadas Acad^^Semicas
+ []
+
+
+Overfull \hbox (8.34636pt too wide) in paragraph at lines 1033--1037
+\OT1/cmr/m/n/12 MO-TORA PRI-MARIA Y MO-TORA SE-CUN-DARIA Y SU RELACI[]ON CON EL
+ DE-SEMPE[]NO
+ []
+
+
+Overfull \hbox (5.82419pt too wide) in paragraph at lines 1033--1037
+\OT1/cmr/m/n/12 MOTRIZ DE RATAS WIS-TAR EX-PUES-TAS A UN R[]EGIMEN DE EJER-CI-C
+IO AER[]OBICO",
+ []
+
+[20]
+Overfull \hbox (11.51755pt too wide) in paragraph at lines 1048--1052
+\OT1/cmr/m/n/12 A. D., []Angeles-Valdez, D., Carranza-Aguilar, C. J. and Garza-
+Villarreal, E. A, \AL-TERACIONES
+ []
+
+
+Overfull \hbox (15.93349pt too wide) in paragraph at lines 1048--1052
+\OT1/cmr/m/n/12 CERE-BE-LOSAS Y COG-NI-TI-VAS IN-DUCI-DAS POR LA AU-TOAD-MIN-IS
+-TRACI[]ON CR[]ONICA
+ []
+
+[21]
+Overfull \hbox (1.89091pt too wide) in paragraph at lines 1081--1084
+\OT1/cmr/m/n/12 BRIA E HIPOCAMPO TRAS LA LESI[]ON DEL SEP-TUM ME-DIAL ME-DI-ANT
+E IM[]AGENES
+ []
+
+
+Overfull \hbox (15.33243pt too wide) in paragraph at lines 1095--1097
+\OT1/cmr/m/n/12 IM-PROVE RE-PAIR OF WHITE MAT-TER IN-JURY IN A FO-CAL DE-MYELI-
+NA-TION MURINE
+ []
+
+
+Overfull \hbox (14.89462pt too wide) in paragraph at lines 1098--1101
+\OT1/cmr/m/n/12 UN AJOLOTE PRE- Y POST- META-MOR-FICO IN-DUCIDO POR HOR-MONAS T
+IROIDEAS",
+ []
+
+
+Overfull \hbox (22.7793pt too wide) in paragraph at lines 1111--1113
+\OT1/cmr/m/n/12 MOUSE COR-PUS CAL-LO-SUM DE-MYELI-NA-TION EVAL-U-ATED BY DIF-FU
+-SION WEIGHTED
+ []
+
+[22]
+Overfull \hbox (25.41519pt too wide) in paragraph at lines 1153--1156
+\OT1/cmr/m/n/12 TIVEPER-FOR-MANCE IN TEM-PO-RAL LOBE EPILEPSY PA-TIENTS", 25 Jo
+r-nadas Acad^^Semicas,
+ []
+
+[23]
+Overfull \hbox (3.4088pt too wide) in paragraph at lines 1186--1189
+[]\OT1/cmr/m/n/12 54. Le^^Son-Jacinto, U., Quitarte, G., Seraf^^S^^Pn-L^^Sopez,
+ N., Aguilar-V^^Sazquez, A., Beltr^^San-Campos,
+ []
+
+
+Overfull \hbox (1.1912pt too wide) in paragraph at lines 1202--1205
+\OT1/cmr/m/n/12 V^^Sazquez, A., D^^S^^Paz'Miranda, S. Y., \In-flu-en-cia es-tro
+g^^Semica con la den-si-dad de es-pinas dendr^^S^^Pticas
+ []
+
+[24]
+Overfull \hbox (2.6074pt too wide) in paragraph at lines 1220--1223
+[]\OT1/cmr/m/n/12 64. Del-gado, G., An-guiano, B., Aceves, C. \La in-ter-acci^^
+Son hor-monas tiroideas-acido retinoico
+ []
+
+[25]
+Overfull \hbox (8.23515pt too wide) in paragraph at lines 1316--1319
+[]\OT1/cmr/m/n/12 5. Mu-ley, V.Y., L^^Sopez-Victorio, C.J., Ayala-Sumuano, J.T.
+, Gonz^^Salez-Gallardo, A., Gonz^^Salez-
+ []
+
+[26] [27] [28] [29] [30]
+Overfull \hbox (7.09808pt too wide) in paragraph at lines 1541--1545
+\OT1/cmr/m/n/12 Acad^^Semicas del In-sti-tuto de Neu-ro-bi-olog^^S^^Pa, UNAM, I
+n-sti-tuto de Neu-ro-bi-olog^^S^^Pa UNAM-Juriquilla,
+ []
+
+
+Overfull \hbox (3.70882pt too wide) in paragraph at lines 1575--1579
+[]\OT1/cmr/m/n/12 3. L^^Sopez-Victorio, C.J., Ayala-Sumuano, J., Lozano-Flores,
+ C., Gonz^^Salez-Santos, L., Linares-
+ []
+
+
+Overfull \hbox (2.92549pt too wide) in paragraph at lines 1584--1587
+[]\OT1/cmr/m/n/12 5. L^^Sopez-Victorio C.J., Ayala-Sumuano J., Lozano-Flores C.
+, Gonz^^Salez-Santos L., Echavarr^^S^^Pa
+ []
+
+[31] [32]
+Overfull \hbox (16.04106pt too wide) in paragraph at lines 1654--1657
+\OT1/cmr/m/n/12 Juriquilla, IN-BUNAM, In-sti-tuto de Neu-ro-bi-olog^^S^^Pa UNAM
+-Juriquilla, Tipo de pro-grama acad^^Semico:
+ []
+
+
+Overfull \hbox (16.04106pt too wide) in paragraph at lines 1658--1661
+\OT1/cmr/m/n/12 Juriquilla, IN-BUNAM, In-sti-tuto de Neu-ro-bi-olog^^S^^Pa UNAM
+-Juriquilla, Tipo de pro-grama acad^^Semico:
+ []
+
+[33] [34] [35]
+Overfull \hbox (0.39261pt too wide) in paragraph at lines 1791--1794
+\OT1/cmr/m/n/12 Metropoli-tana, UAM, Fecha de pre-sentaci^^Son de ex-a-men: 20/
+11/2024, Gonz^^Salez San-tos Leopoldo
+ []
+
+[36] (./cv_jul1525.aux) ) 
+Here is how much of TeX's memory you used:
+ 859 strings out of 492616
+ 11619 string characters out of 6129482
+ 85945 words of memory out of 5000000
+ 4837 multiletter control sequences out of 15000+600000
+ 4245 words of font info for 16 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,5n,28p,245b,182s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr12.pfb>
+Output written on cv_jul1525.pdf (36 pages, 145012 bytes).
+PDF statistics:
+ 127 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
