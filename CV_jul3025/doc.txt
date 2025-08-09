@@ -1,20 +1,20 @@
-Actividades_de_difusion_extension.tex
-Agradecimientos_en_articulos_internacionales.tex
-Agradecimientos_en_congresos_internacionales.tex
-Agradecimientos_en_congresos_nacionales.tex
-Agradecimientos_tesis_doctorado.tex
-Agradecimientos_tesis_licenciatura.tex
-Agradecimientos_tesis_maestria.tex
-Articulos_en_memorias_In_Extenso.tex
-Articulos_publicados.tex
+Actividades_de_difusion_extension.tex, BIEN
+Agradecimientos_en_articulos_internacionales.tex, BIEN
+Agradecimientos_en_congresos_internacionales.tex, BIEN
+Agradecimientos_en_congresos_nacionales.tex, BIEN
+Agradecimientos_tesis_doctorado.tex BIEN
+Agradecimientos_tesis_licenciatura.tex BIEN
+Agradecimientos_tesis_maestria.tex BIEN
+Articulos_en_memorias_In_Extenso.tex BIEN
+Articulos_publicados.tex BIEN
 CV_jul3025.tex
 CV_jul3025.txt
-Congresos_Internacionales.tex
-Congresos_Locales.tex
-Congresos_Nacionales.tex
-Cursos_recibidos.tex
-Docencia_Cursos_especiales.tex
-Docencia_Cursos_regulares.tex
+Congresos_Internacionales.tex BIEN
+Congresos_Locales.tex BIEN
+Congresos_Nacionales.tex BIEN
+Cursos_recibidos.tex BIEN
+Docencia_Cursos_especiales.tex BIEN
+Docencia_Cursos_regulares.tex BIEN
 Otros_Agradecimientos.tex
 copila.sh
 cv_total.tex
