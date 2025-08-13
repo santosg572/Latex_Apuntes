@@ -1,96 +1,92 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.21)  9 AUG 2025 07:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  13 AUG 2025 11:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **prueba.tex
 (./prueba.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18>
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
-\c@part=\count179
-\c@section=\count180
-\c@subsection=\count181
-\c@subsubsection=\count182
-\c@paragraph=\count183
-\c@subparagraph=\count184
-\c@figure=\count185
-\c@table=\count186
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen138
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/tree-dvips/lingmacros.sty
-\c@enums=\count187
-\widelabel=\dimen139
-\c@tempcnt=\count188
-\c@enumsi=\count189
-\eeindent=\dimen140
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tree-dvips/lingmacros.sty
+\c@enums=\count88
+\widelabel=\dimen103
+\c@tempcnt=\count89
+\c@enumsi=\count90
+\eeindent=\dimen104
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/tree-dvips/tree-dvips.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tree-dvips/tree-dvips.sty
 tree-dvips version .91 of May 16, 1995
-\nodemargin=\dimen141
-\treelinewidth=\dimen142
-\dashlength=\dimen143
-\arrowwidth=\dimen144
-\arrowlength=\dimen145
-\arrowinset=\dimen146
-\pos@t=\toks15
-\pos@b=\toks16
-\pos@l=\toks17
-\pos@r=\toks18
-\pos@tl=\toks19
-\pos@tr=\toks20
-\pos@bl=\toks21
-\pos@br=\toks22
-\@arrow=\count190
-\@tempdimc=\dimen147
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
+\nodemargin=\dimen105
+\treelinewidth=\dimen106
+\dashlength=\dimen107
+\arrowwidth=\dimen108
+\arrowlength=\dimen109
+\arrowinset=\dimen110
+\pos@t=\toks14
+\pos@b=\toks15
+\pos@l=\toks16
+\pos@r=\toks17
+\pos@tl=\toks18
+\pos@tr=\toks19
+\pos@bl=\toks20
+\pos@br=\toks21
+\@arrow=\count91
+\@tempdimc=\dimen111
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks23
+\KV@toks@=\toks22
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
-))
-\Gm@cnth=\count191
-\Gm@cntv=\count192
-\c@Gm@tempcnt=\count193
-\Gm@bindingoffset=\dimen148
-\Gm@wd@mp=\dimen149
-\Gm@odd@mp=\dimen150
-\Gm@even@mp=\dimen151
-\Gm@layoutwidth=\dimen152
-\Gm@layoutheight=\dimen153
-\Gm@layouthoffset=\dimen154
-\Gm@layoutvoffset=\dimen155
-\Gm@dimlist=\toks24
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
-(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count194
-\l__pdf_internal_box=\box47
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count92
+\Gm@cntv=\count93
+\c@Gm@tempcnt=\count94
+\Gm@bindingoffset=\dimen112
+\Gm@wd@mp=\dimen113
+\Gm@odd@mp=\dimen114
+\Gm@even@mp=\dimen115
+\Gm@layoutwidth=\dimen116
+\Gm@layoutheight=\dimen117
+\Gm@layouthoffset=\dimen118
+\Gm@layoutvoffset=\dimen119
+\Gm@dimlist=\toks23
 )
 (./prueba.aux)
 \openout1 = `prueba.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
@@ -132,93 +128,28 @@ LaTeX Font Info:    ... okay on input line 14.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(./Docencia_Cursos_regulares.tex
-Overfull \hbox (2.82993pt too wide) in paragraph at lines 27--30
-[] []\OT1/cmr/m/n/12 \Introducci^^Son a la Com-putaci^^Son y Lenguaje de Pro-gr
-a-maci^^Son PYTHON", Modal-
- []
-
-
-Overfull \hbox (4.04797pt too wide) in paragraph at lines 39--42
-[] []\OT1/cmr/m/n/12 Introducci^^Son al Lenguaje de Pro-gra-maci^^Son "R", Moda
-l-i-dad: Pres-en-cial, Semestre:
- []
-
-
-Overfull \hbox (4.04797pt too wide) in paragraph at lines 43--46
-[] []\OT1/cmr/m/n/12 Introducci^^Son al Lenguaje de Pro-gra-maci^^Son "R", Moda
-l-i-dad: Pres-en-cial, Semestre:
- []
-
-[1
+(./productos_tecnicos.tex) [1
 
 
 Non-PDF special ignored!
 <special> header=tree-dvips91.pro
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (4.04797pt too wide) in paragraph at lines 51--54
-[] []\OT1/cmr/m/n/12 \Introducci^^Son al Lenguaje de Pro-gra-maci^^Son R", Moda
-l-i-dad: Pres-en-cial, Semestre:
- []
-
-
-Overfull \hbox (15.68117pt too wide) in paragraph at lines 59--62
-\OT1/cmr/m/n/12 en Cien-cias (Neu-ro-bi-olog^^S^^Pa), Maestr^^S^^Pa, In-sti-tut
-o de Neu-ro-bi-olog^^S^^Pa UNAM-Juriquilla,
- []
-
-
-Overfull \hbox (6.65489pt too wide) in paragraph at lines 79--82
-[] []\OT1/cmr/m/n/12 Lenguaje de Pro-gra-maci^^Son Mat-Lab, Modal-i-dad: Pres-e
-n-cial, Semestre: 1, Maestr^^S^^Pa
- []
-
-
-Overfull \hbox (15.68117pt too wide) in paragraph at lines 79--82
-\OT1/cmr/m/n/12 en Cien-cias (Neu-ro-bi-olog^^S^^Pa), Maestr^^S^^Pa, In-sti-tut
-o de Neu-ro-bi-olog^^S^^Pa UNAM-Juriquilla,
- []
-
-
-Overfull \hbox (15.68117pt too wide) in paragraph at lines 83--86
-\OT1/cmr/m/n/12 en Cien-cias (Neu-ro-bi-olog^^S^^Pa), Maestr^^S^^Pa, In-sti-tut
-o de Neu-ro-bi-olog^^S^^Pa UNAM-Juriquilla,
- []
-
-[2]
-Overfull \hbox (6.04099pt too wide) in paragraph at lines 90--92
-\OT1/cmr/m/n/12 Fac-ul-tad de Qu^^S^^Pmica de la UAQ. Quer^^Setaro, M^^Sexico, 
-Tipo de pro-grama acad^^Semico:
- []
-
-
-Overfull \hbox (6.65489pt too wide) in paragraph at lines 100--103
-[] []\OT1/cmr/m/n/12 Lenguaje de Pro-gra-maci^^Son Mat-Lab, Modal-i-dad: Pres-e
-n-cial, Semestre: 1, Maestr^^S^^Pa
- []
-
-
-Overfull \hbox (6.69098pt too wide) in paragraph at lines 100--103
-\OT1/cmr/m/n/12 en Cien-cias (Neu-ro-bi-olog^^S^^Pa), UNAM, Maestr^^S^^Pa, In-s
-ti-tuto de Neu-ro-bi-olog^^S^^Pa UNAM-
- []
-
-) [3] (./prueba.aux) ) 
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./prueba.aux) ) 
 Here is how much of TeX's memory you used:
- 1056 strings out of 478994
- 16472 string characters out of 5858184
- 319959 words of memory out of 5000000
- 18596 multiletter control sequences out of 15000+600000
- 404035 words of font info for 29 fonts, out of 8000000 for 9000
+ 854 strings out of 492616
+ 11583 string characters out of 6129482
+ 79059 words of memory out of 5000000
+ 4828 multiletter control sequences out of 15000+600000
+ 4245 words of font info for 16 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,4n,74p,207b,178s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr12.pfb>
-Output written on prueba.pdf (3 pages, 34049 bytes).
+ 23i,4n,19p,174b,107s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr12.pfb>
+Output written on prueba.pdf (1 page, 25264 bytes).
 PDF statistics:
- 22 PDF objects out of 1000 (max. 8388607)
- 14 compressed objects within 1 object stream
+ 16 PDF objects out of 1000 (max. 8388607)
+ 10 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
