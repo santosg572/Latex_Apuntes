@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  13 AUG 2025 11:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  6 JAN 2026 11:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -128,28 +128,130 @@ LaTeX Font Info:    ... okay on input line 14.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(./productos_tecnicos.tex) [1
+(./Articulos_publicados.tex
+Overfull \hbox (14.09647pt too wide) in paragraph at lines 10--12
+\OT1/cmr/m/n/12 Bound-ed-ness of the Nu-mer-i-cal So-lu-tions' Mean Value in a 
+Stochas-tic Lotka{Volterra
+ []
+
+[1
 
 
 Non-PDF special ignored!
 <special> header=tree-dvips91.pro
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./prueba.aux) ) 
+Overfull \hbox (1.23973pt too wide) in paragraph at lines 46--48
+[] []\OT1/cmr/m/n/12 Barr^^S^^Pos F.A., Gonz^^Salez L., F^^Savila R., Alonso M.
+E., Sal-gado P., D^^S^^Paz R., Fen^^Sandez,
+ []
+
+) (./Articulos_en_memorias_In_Extenso.tex [2]) (./Congresos_Internacionales.tex
+
+Overfull \hbox (2.06326pt too wide) in paragraph at lines 22--25
+\OT1/cmr/m/n/12 Bar-rios, F., Poster: Hemo-dy-namic re-sponse and func-tional c
+on-nec-tiv-ity in women
+ []
+
+[3]
+Overfull \hbox (1.70499pt too wide) in paragraph at lines 66--69
+[] []\OT1/cmr/m/n/12 Barrios, F.A., Rodgers, C., Or-tiz, J.J., Gonz^^Salez-Sant
+os, L., Romero, A., Romero-
+ []
+
+[4] [5]) (./Docencia_Cursos_regulares.tex
+Overfull \hbox (2.82993pt too wide) in paragraph at lines 27--30
+[] []\OT1/cmr/m/n/12 \Introducci^^Son a la Com-putaci^^Son y Lenguaje de Pro-gr
+a-maci^^Son PYTHON", Modal-
+ []
+
+[6]
+Overfull \hbox (4.04797pt too wide) in paragraph at lines 39--42
+[] []\OT1/cmr/m/n/12 Introducci^^Son al Lenguaje de Pro-gra-maci^^Son "R", Moda
+l-i-dad: Pres-en-cial, Semestre:
+ []
+
+
+Overfull \hbox (4.04797pt too wide) in paragraph at lines 43--46
+[] []\OT1/cmr/m/n/12 Introducci^^Son al Lenguaje de Pro-gra-maci^^Son "R", Moda
+l-i-dad: Pres-en-cial, Semestre:
+ []
+
+
+Overfull \hbox (4.04797pt too wide) in paragraph at lines 51--54
+[] []\OT1/cmr/m/n/12 \Introducci^^Son al Lenguaje de Pro-gra-maci^^Son R", Moda
+l-i-dad: Pres-en-cial, Semestre:
+ []
+
+
+Overfull \hbox (15.68117pt too wide) in paragraph at lines 59--62
+\OT1/cmr/m/n/12 en Cien-cias (Neu-ro-bi-olog^^S^^Pa), Maestr^^S^^Pa, In-sti-tut
+o de Neu-ro-bi-olog^^S^^Pa UNAM-Juriquilla,
+ []
+
+[7]
+Overfull \hbox (6.65489pt too wide) in paragraph at lines 79--82
+[] []\OT1/cmr/m/n/12 Lenguaje de Pro-gra-maci^^Son Mat-Lab, Modal-i-dad: Pres-e
+n-cial, Semestre: 1, Maestr^^S^^Pa
+ []
+
+
+Overfull \hbox (15.68117pt too wide) in paragraph at lines 79--82
+\OT1/cmr/m/n/12 en Cien-cias (Neu-ro-bi-olog^^S^^Pa), Maestr^^S^^Pa, In-sti-tut
+o de Neu-ro-bi-olog^^S^^Pa UNAM-Juriquilla,
+ []
+
+
+Overfull \hbox (15.68117pt too wide) in paragraph at lines 83--86
+\OT1/cmr/m/n/12 en Cien-cias (Neu-ro-bi-olog^^S^^Pa), Maestr^^S^^Pa, In-sti-tut
+o de Neu-ro-bi-olog^^S^^Pa UNAM-Juriquilla,
+ []
+
+
+Overfull \hbox (6.04099pt too wide) in paragraph at lines 90--92
+\OT1/cmr/m/n/12 Fac-ul-tad de Qu^^S^^Pmica de la UAQ. Quer^^Setaro, M^^Sexico, 
+Tipo de pro-grama acad^^Semico:
+ []
+
+
+Overfull \hbox (6.65489pt too wide) in paragraph at lines 100--103
+[] []\OT1/cmr/m/n/12 Lenguaje de Pro-gra-maci^^Son Mat-Lab, Modal-i-dad: Pres-e
+n-cial, Semestre: 1, Maestr^^S^^Pa
+ []
+
+
+Overfull \hbox (6.69098pt too wide) in paragraph at lines 100--103
+\OT1/cmr/m/n/12 en Cien-cias (Neu-ro-bi-olog^^S^^Pa), UNAM, Maestr^^S^^Pa, In-s
+ti-tuto de Neu-ro-bi-olog^^S^^Pa UNAM-
+ []
+
+) (./Docencia_Cursos_especiales.tex
+Overfull \hbox (26.7159pt too wide) in paragraph at lines 9--10
+[] []\OT1/cmr/m/n/12 \Introducci^^Son a la Com-putaci^^Son y Pro-gra-maci^^Son 
+del Lenguaje R con ES-TAD[]ISTICA",
+ []
+
+[8]
+Overfull \hbox (20.09642pt too wide) in paragraph at lines 30--32
+[] []\OT1/cmr/m/n/12 "Manejo de Grandes Vol^^Sumenes de Datos Uti-lizando Her-r
+amien-tas LINUX",Instituto
+ []
+
+) [9] (./prueba.aux) ) 
 Here is how much of TeX's memory you used:
- 854 strings out of 492616
- 11583 string characters out of 6129482
- 79059 words of memory out of 5000000
- 4828 multiletter control sequences out of 15000+600000
- 4245 words of font info for 16 fonts, out of 8000000 for 9000
+ 875 strings out of 492616
+ 12058 string characters out of 6129482
+ 85059 words of memory out of 5000000
+ 4836 multiletter control sequences out of 15000+600000
+ 5456 words of font info for 20 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,4n,19p,174b,107s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr12.pfb>
-Output written on prueba.pdf (1 page, 25264 bytes).
+ 23i,4n,19p,225b,185s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr12.pfb>
+Output written on prueba.pdf (9 pages, 55412 bytes).
 PDF statistics:
- 16 PDF objects out of 1000 (max. 8388607)
- 10 compressed objects within 1 object stream
+ 42 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
