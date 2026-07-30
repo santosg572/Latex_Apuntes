@@ -1,0 +1,226 @@
+\begin{frame}
+  \frametitle{Vectores y Matrices}
+
+Un vector es definido como:
+
+\hfill
+
+x = \{ x_1, x_2, ..., x_n \}$, con $x_i \in \mathbb{R}$
+
+\hfill
+
+Decimos que el vector es de longitud n.
+
+\hfill
+
+$x_1$ el primer elemento del vector x.
+
+$x_2$ el segundo elemento del vector x.
+
+$x_i$ el i-ésimo elemento del vector x.
+
+\end{frame}
+
+\begin{frame}
+  \frametitle{Vectores y Matrices}
+
+Un vector fila es: x = \{ x_1, x_2, ..., x_n \}$
+
+\hfill
+
+Un vector columna es: \begin{pmatrix}
+x_1 \\
+x_2 \\
+... \\
+x_n \\
+\end{pmatrix} 
+
+\end{frame}
+
+\begin{frame}
+  \frametitle{Vectores y Matrices}
+
+\textbf{Operaciones entre vectores.}
+
+\hfill
+
+Sean x y y vectores de longitud n y a un número (escalar) definimos las operaciones:
+
+\hfill
+
+1) x+y = $(x_1, x_2, ..., x_n) + (y_1, y_2, ..., y_n) = (x_1+y_1, x_2+y_2, ..., x_n+y_n)$
+
+\hfill
+
+2) ax = $a \times x$ = $a(x_1, x_2, ..., x_n) = (ax_1, ax_2, ..., ax_n)$
+
+\hfill
+
+3) Si $a \neq 0$ $\frac{x}{a} = (\frac{x_1}{a}, \frac{x_2}{a}, ..., \frac{x_n}{a})$
+
+\end{frame}
+
+\begin{frame}
+  \frametitle{Vectores y Matrices}
+
+\end{frame}
+
+\begin{frame}
+  \frametitle{Vectores y Matrices}
+
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Matrices}
+
+Una matriz se define como:
+
+\hfill
+
+\begin{pmatrix}
+a_{11} & a_{12}  & ... & a_{1m}  \\
+a_{21} & a_{22}  & ... & a_{2m}  \\
+... & ...  & ... & ...  \\
+a_{n1} & a_{n2}  & ... & a_{nm}  \\
+\end{pmatrix}
+
+\hfill
+
+donde $a_{ij} \in \mathbb{R}$, para i=1,2,..., n y j = 1, 2, ...,m
+
+\hfill
+
+Decimos que la matriz es de tamaño $n \times m$, n-filas y m-columnas.
+
+\end{frame}
+
+\begin{frame}
+  \frametitle{Matrices}
+
+Dada una matriz A= \begin{pmatrix}
+a_{11} & a_{12}  & ... & a_{1m}  \\
+a_{21} & a_{22}  & ... & a_{2m}  \\
+... & ...  & ... & ...  \\
+a_{n1} & a_{n2}  & ... & a_{nm}  \\
+\end{pmatrix}
+
+La transpuesta de la matriz A esta dada por:
+
+\hfill
+
+$A^T$= \begin{pmatrix}
+a_{11} & a_{12}  & ... & a_{1n}  \\
+a_{21} & a_{22}  & ... & a_{2n}  \\
+... & ...  & ... & ...  \\
+a_{m1} & a_{m2}  & ... & a_{mn}  \\
+\end{pmatrix}
+
+\hfill
+
+decimos que la matriz es de tamaño $m \times n$.
+\end{frame}
+
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Matrices}
+
+\textbf{Operaciones en matrices.}
+
+\hfill
+
+Sean A y B dos matrices de tamaño $m \times n$ y a un escalar.
+
+\hfill
+
+1) A+B = \begin{pmatrix}
+a_{11} & a_{12}  & ... & a_{1m}  \\
+a_{21} & a_{22}  & ... & a_{2m}  \\
+... & ...  & ... & ...  \\
+a_{n1} & a_{n2}  & ... & a_{nm}  \\
+\end{pmatrix} + \begin{pmatrix}
+b_{11} & b_{12}  & ... & b_{1m}  \\
+b_{21} & b_{22}  & ... & b_{2m}  \\
+... & ...  & ... & ...  \\
+b_{n1} & b_{n2}  & ... & b_{nm}  \\
+\end{pmatrix}
+
+= \begin{pmatrix}
+a_{11}+b_{11} & a_{12}+b_{12}  & ... & a_{1m}+b_{1m}  \\
+a_{21}+b_{21} & a_{12}+b_{22}  & ... & a_{2m}+b_{2m}  \\
+... & ...  & ... & ...  \\
+a_{n1}+b_{n1} & a_{n2}+b_{n2}  & ... & a_{nm}+b_{nm}  \\
+\end{pmatrix}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Matrices}
+
+2) aA = a\begin{pmatrix}
+a_{11} & a_{12}  & ... & a_{1m}  \\
+a_{21} & a_{22}  & ... & a_{2m}  \\
+... & ...  & ... & ...  \\
+a_{n1} & a_{n2}  & ... & a_{nm}  \\
+\end{pmatrix} = \begin{pmatrix}
+ca_{11} & ca_{12}  & ... & ca_{1m}  \\
+ca_{21} & ca_{22}  & ... & ca_{2m}  \\
+... & ...  & ... & ...  \\
+ca_{n1} & ca_{n2}  & ... & ca_{nm}  \\
+\end{pmatrix}
+
+\end{frame}
+
+\begin{frame}
+  \frametitle{Matrices}
+
+Sea A matriz de tamaño $n \times p$ y B matrix de tamaño $p \times m$ definimos la mutiplicacion  AB por:
+
+AB = \begin{pmatrix}
+a_{11} & a_{12}  & ... & a_{1p}  \\
+a_{21} & a_{22}  & ... & a_{2p}  \\
+... & ...  & ... & ...  \\
+a_{n1} & a_{n2}  & ... & a_{np}  \\
+\end{pmatrix} \begin{pmatrix}
+b_{11} & b_{12}  & ... & b_{1m}  \\
+b_{21} & b_{22}  & ... & b_{2m}  \\
+... & ...  & ... & ...  \\
+b_{p1} & b_{p2}  & ... & b_{pm}  \\
+\end{pmatrix} = \begin{pmatrix}
+\sum_{k=1}^p a_{1k}b_{k1} & \sum_{k=1}^p a_{1k}b_{k2}  & ... & \sum_{k=1}^p a_{1k}b_{km}  \\
+\sum_{k=1}^p a_{2k}b_{k1} & \sum_{k=1}^p a_{2k}b_{k2}  & ... & \sum_{k=1}^p a_{2k}b_{km}  \\
+... & ...  & ... & ...  \\
+\sum_{k=1}^p a_{nk}b_{k1} & \sum_{k=1}^p a_{nk}b_{k2}  & ... & \sum_{k=1}^p a_{nk}b_{km}  \\
+\end{pmatrix}
+
+la matrix AB es de tamaño $n \times m$.
+\end{frame}
+
+\begin{frame}
+  \frametitle{Matrices}
+
+\end{frame}
+
+\begin{frame}
+  \frametitle{Matrices}
+
+\end{frame}
+
+\begin{frame}
+  \frametitle{Matrices}
+
+\end{frame}
+
+\begin{frame}
+  \frametitle{Matrices}
+
+\end{frame}
+
+\begin{frame}
+  \frametitle{Matrices}
+
+\end{frame}
+
+
