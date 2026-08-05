@@ -1,9 +1,8 @@
 #!/bin/bash
 
-rm ${1}.pdf
-pdflatex ${1}.tex
+rm tt.pdf
 
-rm *.aux
-rm *.log
+pdflatex -pdf tt.tex
 
-open ${1}.pdf
+open tt.pdf
+
