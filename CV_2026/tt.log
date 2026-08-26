@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  25 AUG 2026 15:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  25 AUG 2026 15:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -51,7 +51,8 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen109
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
-) (./tt.aux (./cursos_reci.aux))
+)
+No file tt.aux.
 \openout1 = `tt.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -66,7 +67,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -101,25 +101,37 @@ LaTeX Font Info:    ... okay on input line 5.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\openout2 = `cursos_reci.aux'.
+\openout2 = `agrad_tesis_doc.aux'.
 
-(./cursos_reci.tex [1
+(./agrad_tesis_doc.tex
+Overfull \hbox (38.25734pt too wide) in paragraph at lines 20--22
+\OT1/cmr/m/n/12 ES-TADO DE RE-POSO DEL CLAUS-TRUM", DOC-TOR-ADO EN CIEN-CIAS BI
+OM[]EDICAS,
+ []
 
 
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) [2] (.
-/tt.aux (./cursos_reci.aux)) ) 
+Overfull \hbox (8.16559pt too wide) in paragraph at lines 23--25
+[]\OT1/cmr/m/n/12 Olalde Math-ieu, V.E., "CONEC-TIVI-DAD FUN-CIONAL CERE-BRAL R
+ELA-CIONADA
+ []
+
+[1
+
+
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
+[2] (./tt.aux (./agrad_tesis_doc.aux)) ) 
 Here is how much of TeX's memory you used:
- 747 strings out of 492616
- 10225 string characters out of 6129482
- 81713 words of memory out of 5000000
- 4724 multiletter control sequences out of 15000+600000
+ 746 strings out of 492616
+ 10217 string characters out of 6129482
+ 80477 words of memory out of 5000000
+ 4727 multiletter control sequences out of 15000+600000
  4245 words of font info for 16 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 24i,4n,32p,173b,184s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2019/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr12.pfb>
-Output written on tt.pdf (2 pages, 38333 bytes).
+ 24i,4n,32p,178b,184s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on tt.pdf (2 pages, 34021 bytes).
 PDF statistics:
  19 PDF objects out of 1000 (max. 8388607)
  12 compressed objects within 1 object stream
