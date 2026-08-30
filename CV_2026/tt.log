@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.2)  27 AUG 2026 05:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.2)  30 AUG 2026 15:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -128,109 +128,32 @@ Overfull \hbox (4.72311pt too wide) in paragraph at lines 25--26
 sc. Su-pe-rior de F^^S^^Psica y Matem^^Saticas
  []
 
-(./agrad_art_inter.tex
-Overfull \hbox (3.72499pt too wide) in paragraph at lines 4--8
-[]\OT1/cmr/m/n/12 Angeles-Valdez, D., Lopez-Castro, A., Rasgado-Toledo, J., Nar
-anjo-Albarran, L., Garza-
+(./acti_dif_ext.tex
+Overfull \hbox (17.00534pt too wide) in paragraph at lines 9--11
+[]\OT1/cmr/bx/n/12 "Semana del Cere-bro"\OT1/cmr/m/n/12 , Cen-tro Ed-uca-tivo y
+ Cul-tural `Manuel G^^Somez Morin', Quer^^Setaro,
  []
 
-[1
+) [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (17.2915pt too wide) in paragraph at lines 46--49
-[]\OT1/cmr/m/n/12 Trujillo-Villarreal, Cruz-Carrillo, G., Angeles-Valdez, D., G
-arza-Villarreal, E.A., Camacho-
- []
-
-
-Overfull \hbox (0.16946pt too wide) in paragraph at lines 55--58
-\OT1/cmr/m/n/12 Garza-Villarreal, E.A., Camacho-Morales, A., \Pre-na-tal Cafe-t
-e-ria Diet Primes Anxiety-
- []
-
-
-Overfull \hbox (15.50543pt too wide) in paragraph at lines 73--77
-[]\OT1/cmr/m/n/12 Olalde-Mathieu, V.E., Licea-Haquet, G.,L., Al-cauter, S., Ati
-lano-Barbosa, D., Dominquez-
- []
-
-
-Overfull \hbox (2.34721pt too wide) in paragraph at lines 78--81
-[]\OT1/cmr/m/n/12 Atilano-Barbosa, D. and Bar-rios, F.A., \Brain mor-pho-log-i-
-cal vari-abil-ity be-tween Whites
- []
-
-[2] [3]
-Overfull \hbox (8.45967pt too wide) in paragraph at lines 151--155
-[]\OT1/cmr/m/n/12 Lazcano, I., Cisneros-Mejorado, A., Con-cha, L., Jos^^Se Orti
-z-Retana, J.J., Garza-Villarreal,
- []
-
-[4]
-Overfull \hbox (16.68176pt too wide) in paragraph at lines 185--188
-\OT1/cmr/m/n/12 Fine Struc-ture As-so-ci-a-tion: Hilbert Trans-form Psy-chophys
-ics", fron-tiers in Neuroscience,1-
- []
-
-
-Overfull \hbox (13.69916pt too wide) in paragraph at lines 189--192
-\OT1/cmr/m/n/12 IN TEM-PO-RAL LOBE EPILEPSY", COG-NI-TIVE CON-NEC-TOMICS IN TLE
-, bioRxiv,
- []
-
-[5]
-Overfull \hbox (4.50136pt too wide) in paragraph at lines 220--223
-[]\OT1/cmr/m/n/12 Sarael Al-cauter, Lil-iana Garc^^S^^Pa-Mondrag^^Sona, Zeus Gr
-acia-Tabuenca, Martha B. Moreno,
- []
-
-[6]
-Overfull \hbox (7.60324pt too wide) in paragraph at lines 266--269
-[]\OT1/cmr/m/n/12 PASAYE E.H, GUTI[]ERREZ R.A., S. AL-CAUTER S., MER-CADILLO R.
-E., AGUILAR-
- []
-
-[7]
-Overfull \hbox (4.98053pt too wide) in paragraph at lines 302--305
-[]\OT1/cmr/m/n/12 Luna, M., Bar-raza, N., Beru-men, L., Car-ranza, M., Ped-ern-
-era, E., Har-vey, S., Ar^^Samburo,
- []
-
-
-Overfull \hbox (4.68326pt too wide) in paragraph at lines 302--305
-\OT1/cmr/m/n/12 C., \Het-ero-gene-ity of growth hor-mone im-munore-ac-tiv-ity i
-n lym-phoid tis-sues and changes
- []
-
-[8]
-Overfull \hbox (23.1914pt too wide) in paragraph at lines 365--369
-\OT1/cmr/m/n/12 chem-i-cal char-ac-ter-i-za-tion, dis-tri-bu-tion and phy-lo-ge
--netic anal-y-sis of Drosophila melanogaster
- []
-
-[9] [10]
-Overfull \hbox (1.39445pt too wide) in paragraph at lines 433--436
-[]\OT1/cmr/m/n/12 Guti^^Serrez-Ospina, G., D^^S^^Paz-Cintra, S., Aguirre-Portil
-la, A., Aguilar-V^^Sazquez, A., L^^Sopez,
- []
-
-) [11] (./tt.aux) ) 
+(./tt.aux) ) 
 Here is how much of TeX's memory you used:
- 1757 strings out of 476025
- 29400 string characters out of 5790017
- 1859388 words of memory out of 5000000
- 22251 multiletter control sequences out of 15000+600000
+ 1756 strings out of 476025
+ 29374 string characters out of 5790017
+ 1857388 words of memory out of 5000000
+ 22250 multiletter control sequences out of 15000+600000
  513796 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,5n,62p,495b,177s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr17.pfb>
-Output written on tt.pdf (11 pages, 73841 bytes).
+ 57i,5n,62p,495b,153s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+17.pfb>
+Output written on tt.pdf (1 page, 47059 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
+ 23 PDF objects out of 1000 (max. 8388607)
+ 13 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
