@@ -15,6 +15,17 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
-   experiencia_prof
    acti_dif_ext
+   agrad_art_inter
+   agrad_capi_lib
+   agrad_cong_inter
+   agrad_cong_naci
+   agrad_tesis_doc
+   agrad_tesis_licen
+   agrad_tesis_maes
+   art_mem_ext
+   art_public
+   asis_even_acad
+   comite
+   experiencia_prof
 
