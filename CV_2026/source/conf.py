@@ -26,3 +26,8 @@ language = 'sp'
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
+tml_css_files = ['custom.css']
+latex_elements = {
+    'pointsize': '11pt',
+}
+

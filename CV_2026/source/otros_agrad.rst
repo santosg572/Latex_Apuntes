@@ -26,83 +26,35 @@ Créditos en: XXVII NeuroVisión, septiembre de 2025.
 Properties of Preterm and At-Term Neonates”, Human Brain Mapping, 1-17, 2025, Créditos en: Agradecimiento en articulo 
 internacional, noviembre de 2025.
 
-6. Rasgado-Toledo, J., Angeles-Valdez, D., Carranza-Aguilar, C. J., Lopez-Castro, A., and Eduardo A. Garza-Villarreal, E, 
-“The effect of chronic stress and chronic alcohol intake on behaviour, brain volume, and functional connectivity in a 
-longitudinal rat model”, BRAIN COMMUNICATIONS, 1-16, 2025, Créditos en: Agradecimiento en articulo internacional, noviembre 
-de 2025.
+6. Rasgado-Toledo, J., Angeles-Valdez, D., Carranza-Aguilar, C. J., Lopez-Castro, A., and Eduardo A. Garza-Villarreal, E, “The effect of chronic stress and chronic alcohol intake on behaviour, brain volume, and functional connectivity in a longitudinal rat model”, BRAIN COMMUNICATIONS, 1-16, 2025, Créditos en: Agradecimiento en articulo internacional, noviembre de 2025.
 
 7. Participación como Juez, Créditos en: XXXII Jornadas Académicas del Instituto de Neurobiología, septiembre de 2025.
 
-8. “Semana del Cerebro: Moldea tu Cerebro”, Centro Académico Cultural, Campus Juriquilla, 20 hrs., marzo 11-15, Créditos 
-en: 
-Otro, marzo de 2025.
+8. “Semana del Cerebro: Moldea tu Cerebro”, Centro Académico Cultural, Campus Juriquilla, 20 hrs., marzo 11-15, Créditos en: Otro, marzo de 2025.
 
-9. Ocampo Lunam P., Carbajal-Valenzuela, C.C., Fair, M., García-Gomar, M.G., “Estudio de la microestructura de los 
-núcleos de 
-la vía auditiva en adultos jóvenes mediante Imágenes de Resonancia Magnética”, XXVI Reunión conjunta de Procesamiento de 
-Neuroimágenes y Visión Computacional, CIMAT-Guanajuato, 9 al 11 de octubre, Créditos en: Jornadas académicas, octubre de 
-2024.
+9. Ocampo Lunam P., Carbajal-Valenzuela, C.C., Fair, M., García-Gomar, M.G., “Estudio de la microestructura de los núcleos de la vía auditiva en adultos jóvenes mediante Imágenes de Resonancia Magnética”, XXVI Reunión conjunta de Procesamiento de Neuroimágenes y Visión Computacional, CIMAT-Guanajuato, 9 al 11 de octubre, Créditos en: Jornadas académicas, octubre de 2024.
 
-10. Varela Correa B* ., Garay, E. and Arellano, R. O1 ., “MOLECULAR CHARACTERIZATION OF BINDING SITE OF _-CCB IN 
-OLIGODENDROGLIAL GABAA RECEPTOR _3_2_1”, XXXI Jornadas Académicas del instituto de Neurobiología, UNAM, del 23 al 27, 
-Créditos en: XXXI Jornadas Académicas del Instituto de Neurobiología., septiembre de 2024.
+10. Varela Correa B* ., Garay, E. and Arellano, R. O1 ., “MOLECULAR CHARACTERIZATION OF BINDING SITE OF _-CCB IN OLIGODENDROGLIAL GABAA RECEPTOR _3_2_1”, XXXI Jornadas Académicas del instituto de Neurobiología, UNAM, del 23 al 27, Créditos en: XXXI Jornadas Académicas del Instituto de Neurobiología., septiembre de 2024.
 
-11. Encarnación Fernández, K. V., Zamora Suárez, A., Ramírez González, D., Licea Haquet, G. L., Espinosa Méndez, I. M., 
-Robles Rodríguez, G. D., Piña Hernández, A., Zaldivar, E., Medina Rivera, A., Ruiz Contreras, A. E., Rentería, M., Alcauter, 
-S. and Domínguez Frausto, C. A., “PREVALENCIA DE HALLAZGOS RADIOLÓGICOS EN IMÁGENES POR RESONANCIA MAGNÉTICA DEL REGISTRO 
-MEXICANO DE GEMELOS”, XXXI Jornadas Académicas del instituto de Neurobiología, UNAM, del 23 al 27, Créditos en: XXXI Jornadas 
-Académicas del Instituto de Neurobiología., septiembre de 2024.
+11. Encarnación Fernández, K. V., Zamora Suárez, A., Ramírez González, D., Licea Haquet, G. L., Espinosa Méndez, I. M., Robles Rodríguez, G. D., Piña Hernández, A., Zaldivar, E., Medina Rivera, A., Ruiz Contreras, A. E., Rentería, M., Alcauter, S. and Domínguez Frausto, C. A., “PREVALENCIA DE HALLAZGOS RADIOLÓGICOS EN IMÁGENES POR RESONANCIA MAGNÉTICA DEL REGISTRO MEXICANO DE GEMELOS”, XXXI Jornadas Académicas del instituto de Neurobiología, UNAM, del 23 al 27, Créditos en: XXXI Jornadas Académicas del Instituto de Neurobiología., septiembre de 2024.
 
-12. Alfaro Moreno, J. I., González Pérez, E. G., Carranza Aguilar, C. J. and Alcauter, S., “MORPHOLOGICAL CHANGES IN MOTOR 
-CORTICES AND THEIR RELATIONSHIP WITH MOTOR PERFORMANCE OF RATS EXPOSED TO AN AEROBIC EXERCISE REGIMEN”, XXXI Jornadas 
-Académicas del instituto de Neurobiología, UNAM, del 23 al 27, Créditos en: XXXI Jornadas Académicas del Instituto de 
-Neurobiología., septiembre de 2024.
+12. Alfaro Moreno, J. I., González Pérez, E. G., Carranza Aguilar, C. J. and Alcauter, S., “MORPHOLOGICAL CHANGES IN MOTOR CORTICES AND THEIR RELATIONSHIP WITH MOTOR PERFORMANCE OF RATS EXPOSED TO AN AEROBIC EXERCISE REGIMEN”, XXXI Jornadas Académicas del instituto de Neurobiología, UNAM, del 23 al 27, Créditos en: XXXI Jornadas Académicas del Instituto de Neurobiología., septiembre de 2024.
 
-13. Badillo Sanjuanero, S., Mendoza Medina, V., Ramírez González, D., Licea Haquet, G. L., Espinosa Méndez, I. M., Robles 
-Rodríguez, G. D., Piña Hernández, A., Zaldivar, E., Medina Rivera, A., Ruiz Contreras, A. E., Rentería, M., Alcauter, S. and 
-Domínguez Frausto, C. A., “ASOCIACIÓN DE LA EDAD CON EL VOLUMEN CORTICAL EN UNA MUESTRA DE ADULTOS MEXICANOS”, XXXI Jornadas 
-Académicas del instituto de Neurobiología, UNAM, del 23 al 27, Créditos en: XXXI Jornadas Académicas del Instituto de 
-Neurobiología., septiembre de 2024.
+13. Badillo Sanjuanero, S., Mendoza Medina, V., Ramírez González, D., Licea Haquet, G. L., Espinosa Méndez, I. M., Robles Rodríguez, G. D., Piña Hernández, A., Zaldivar, E., Medina Rivera, A., Ruiz Contreras, A. E., Rentería, M., Alcauter, S. and Domínguez Frausto, C. A., “ASOCIACIÓN DE LA EDAD CON EL VOLUMEN CORTICAL EN UNA MUESTRA DE ADULTOS MEXICANOS”, XXXI Jornadas Académicas del instituto de Neurobiología, UNAM, del 23 al 27, Créditos en: XXXI Jornadas Académicas del Instituto de Neurobiología., septiembre de 2024.
 
-14. Espinosa Méndez, I. M., Díaz Patiño, J. C., Ramírez González, D., Román López, T. V., Sánchez Moncada, C. I., Robles 
-Rodríguez, G. D., Licea Haquet, G. L., Domínguez Frausto, C. A., Piña Hernández, A., Encarnación Fernández, K. V., Zamora 
-Suárez, A., Dorantes Larrauri, M., Medina Rivera, A., Ruiz Contreras, A., Rentería, M. and Alcauter, S., “GENETIC 
-CONTRIBUTIONS OF THE FUNCTIONAL CONNECTOME TOPOLOGY IN THE MEXICAN POPULATION”, XXXI Jornadas Académicas del instituto de 
-Neurobiología, UNAM, del 23 al 27, Créditos en: XXXI Jornadas Académicas del Instituto de Neurobiología., septiembre de 2024.
+14. Espinosa Méndez, I. M., Díaz Patiño, J. C., Ramírez González, D., Román López, T. V., Sánchez Moncada, C. I., Robles Rodríguez, G. D., Licea Haquet, G. L., Domínguez Frausto, C. A., Piña Hernández, A., Encarnación Fernández, K. V., Zamora Suárez, A., Dorantes Larrauri, M., Medina Rivera, A., Ruiz Contreras, A., Rentería, M. and Alcauter, S., “GENETIC CONTRIBUTIONS OF THE FUNCTIONAL CONNECTOME TOPOLOGY IN THE MEXICAN POPULATION”, XXXI Jornadas Académicas del instituto de Neurobiología, UNAM, del 23 al 27, Créditos en: XXXI Jornadas Académicas del Instituto de Neurobiología., septiembre de 2024.
 
-15. Guerrero-Morales, J.R., García Miranda, L., Sánchez-Yépez, J., Mendoza-Trejo,Ma. S., GarcíaGomar, Ma. G., Giordano, 
-M., 
-Rodríguez-Córdova, V.M., “Cambios en el sistema nervioso central medidos por tensor de difusión en un modelo de exposición 
-repetida al herbicida atrazina en roedores”, XXVI Reunión conjunta de Procesamiento de Neuroimágenes y Visión Computacional, 
-CIMAT-Guanajuato, 9 al 11, Créditos en: Jornadas académicas, octubre de 2024.
+15. Guerrero-Morales, J.R., García Miranda, L., Sánchez-Yépez, J., Mendoza-Trejo,Ma. S., GarcíaGomar, Ma. G., Giordano, M., Rodríguez-Córdova, V.M., “Cambios en el sistema nervioso central medidos por tensor de difusión en un modelo de exposición repetida al herbicida atrazina en roedores”, XXVI Reunión conjunta de Procesamiento de Neuroimágenes y Visión Computacional, CIMAT-Guanajuato, 9 al 11, Créditos en: Jornadas académicas, octubre de 2024.
 
-16. Cisneros Mejorado, A. J* ., Hernández Cortés, A., Vélez Uriza, F. and Arellano, R. O., “DEMYELINATION AND 
-REMYELINATION 
-IN A PRECLINICAL MULTIPLE SCLEROSIS ANIMAL MODEL, APPROACHED LONGITUDINALLY, HISTOLOGICALLY AND FUNCTIONALLY”, XXXI Jornadas 
-Académicas del instituto de Neurobiología, UNAM, del 23 al 27, Créditos en: XXXI
-Jornadas Académicas, septiembre de 2024.
+16. Cisneros Mejorado, A. J* ., Hernández Cortés, A., Vélez Uriza, F. and Arellano, R. O., “DEMYELINATION AND REMYELINATION IN A PRECLINICAL MULTIPLE SCLEROSIS ANIMAL MODEL, APPROACHED LONGITUDINALLY, HISTOLOGICALLY AND FUNCTIONALLY”, XXXI Jornadas Académicas del instituto de Neurobiología, UNAM, del 23 al 27, Créditos en: XXXI Jornadas Académicas, septiembre de 2024.
 
-17. Hernández, A., Cisneros-Mejorado, A., Sierra-Camacho, J. J., Arellano, R. O. and MartínezTorres, A., “NEURAL 
-PROGENITOR 
-CELL TRANSPLANTATION FOR THE REGENERATION THERAPY IN A HEMI-PARKINSON DISEASE MODEL”, Jornadas Académicas del Instituto de 
-Neurobiología, UNAM, 2023, Créditos en: 30 Jornadas Académicas del Instituto de Neurobiología UNAM, noviembre de 2023.
+17. Hernández, A., Cisneros-Mejorado, A., Sierra-Camacho, J. J., Arellano, R. O. and MartínezTorres, A., “NEURAL PROGENITOR CELL TRANSPLANTATION FOR THE REGENERATION THERAPY IN A HEMI-PARKINSON DISEASE MODEL”, Jornadas Académicas del Instituto de Neurobiología, UNAM, 2023, Créditos en: 30 Jornadas Académicas del Instituto de Neurobiología UNAM, noviembre de 2023.
 
-18. Trujillo-Villarreal, L.A., Cruz-Carrillo, G., Angeles-Valdez, D., Garza-Villarreal, E. and CamachoMorales, A., “EFECTO 
-TRANSGENERACIONAL DE LA PROGRAMACIÓN FETAL POR DIETA MATERNA SOBRE LA ESTRUCTURA CEREBRAL Y SU ASOCIACIÓN A CONDUCTAS 
-SIMILARES A LA ANSIEDAD EN RATAS MACHO”, Académicas del Instituto de Neurobiología, UNAM, 2023, Créditos en: 30 Jornadas 
-Académicas del Instituto de Neurobiología UNAM, noviembre de 2023.
+18. Trujillo-Villarreal, L.A., Cruz-Carrillo, G., Angeles-Valdez, D., Garza-Villarreal, E. and CamachoMorales, A., “EFECTO TRANSGENERACIONAL DE LA PROGRAMACIÓN FETAL POR DIETA MATERNA SOBRE LA ESTRUCTURA CEREBRAL Y SU ASOCIACIÓN A CONDUCTAS SIMILARES A LA ANSIEDAD EN RATAS MACHO”, Académicas del Instituto de Neurobiología, UNAM, 2023, Créditos en: 30 Jornadas Académicas del Instituto de Neurobiología UNAM, noviembre de 2023.
 
-19. Espinosa-Méndez, I.M., Román-López, T. V., Ramírez-González, D., Sánchez-Moncada, C. I., Díaz-Téllez, X., 
-Domínguez-Frausto, C. A., Murillo-Lechuga, V., López-Camaño, X. J., GuzmánTenorio, G. E., Robles-Rodríguez, G. D., 
-Ortiz-Tapia, E. B., Piña-Hernández, A., Aldana-Assad, O.., Medina-Rivera, A., Ruiz-Contreras, A. E., Rentería, M.. and 
-Alcauter, S., “HERITABILITY AND GENETIC RELATIONSHIPS OF CORTICAL SURFACE AREA AND THICKNESS IN THE MEXICAN POPULATION”, 
-Jornadas Académicas del Instituto de Neurobiología, UNAM, 2023, Créditos en: 30 Jornadas Académicas del Instituto de 
-Neurobiología UNAM, noviembre de 2023.
+19. Espinosa-Méndez, I.M., Román-López, T. V., Ramírez-González, D., Sánchez-Moncada, C. I., Díaz-Téllez, X., Domínguez-Frausto, C. A., Murillo-Lechuga, V., López-Camaño, X. J., GuzmánTenorio, G. E., Robles-Rodríguez, G. D., Ortiz-Tapia, E. B., Piña-Hernández, A., Aldana-Assad, O.., Medina-Rivera, A., Ruiz-Contreras, A. E., Rentería, M.. and Alcauter, S., “HERITABILITY AND GENETIC RELATIONSHIPS OF CORTICAL SURFACE AREA AND THICKNESS IN THE MEXICAN POPULATION”, Jornadas Académicas del Instituto de Neurobiología, UNAM, 2023, Créditos en: 30 Jornadas Académicas del Instituto de Neurobiología UNAM, noviembre de 2023.
 
-20. Moreno, J. A., González-Pérez, E. G., Rocha-García, M., Carranza-Aguilar, C. J. and AlcauterSolórzano, S., “CAMBIOS 
-MORFOLÓGICOS EN LAS CORTEZAS CEREBRALES MOTORA PRIMARIA Y MOTORA SECUNDARIA Y SU RELACIÓN CON EL DESEMPEÑO MOTRIZ DE RATAS 
-WISTAR EXPUESTAS A UN RÉGIMEN DE EJERCICIO AERÓBICO”, Jornadas Académicas del Instituto de Neurobiología, UNAM, 2023, 
-Créditos en: 30 Jornadas Académicas del Instituto de Neurobiología UNAM, noviembre de 2023.
+20. Moreno, J. A., González-Pérez, E. G., Rocha-García, M., Carranza-Aguilar, C. J. and AlcauterSolórzano, S., “CAMBIOS MORFOLÓGICOS EN LAS CORTEZAS CEREBRALES MOTORA PRIMARIA Y MOTORA SECUNDARIA Y SU RELACIÓN CON EL DESEMPEÑO MOTRIZ DE RATAS WISTAR EXPUESTAS A UN RÉGIMEN DE EJERCICIO AERÓBICO”, Jornadas Académicas del Instituto de Neurobiología, UNAM, 2023, Créditos en: 30 Jornadas Académicas del Instituto de Neurobiología UNAM, noviembre de 2023.
 
 21. González-Pérez, E., Ortíz-Retana, J., Alfaro-Moreno, J., Rocha-García, M., Espinosa-Mendez, I., Gasca-Martinez, D., 
 Carranza-Aguilar, C. J. and Alcauter-Solórzano, S., “EFECTOS DEL AMBIENTE ENRIQUECIDO EN EL COMPORTAMIENTO, LA CONECTIVIDAD 

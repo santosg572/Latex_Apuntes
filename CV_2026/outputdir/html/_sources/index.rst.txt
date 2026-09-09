@@ -27,5 +27,16 @@ documentation for details.
    art_public
    asis_even_acad
    comite
+   congr_inter
+   congr_local
+   congr_nacio
+   cursos_especia
+   cursos_reci
+   cursos_regu
    experiencia_prof
+   otros_agrad
+   parti_inst
+   premios
+   produc_acde
+   tesis_lice
 
