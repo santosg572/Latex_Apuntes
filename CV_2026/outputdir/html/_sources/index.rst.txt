@@ -15,28 +15,30 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
-   acti_dif_ext
-   agrad_art_inter
-   agrad_capi_lib
-   agrad_cong_inter
-   agrad_cong_naci
-   agrad_tesis_doc
-   agrad_tesis_licen
-   agrad_tesis_maes
-   art_mem_ext
-   art_public
-   asis_even_acad
-   comite
-   congr_inter
-   congr_local
-   congr_nacio
-   cursos_especia
-   cursos_reci
-   cursos_regu
+   escolaridad
    experiencia_prof
-   otros_agrad
+   cursos_reci
+   asis_even_acad
    parti_inst
+   agrad_tesis_doc
+   agrad_tesis_maes
+   agrad_tesis_licen
+   agrad_art_inter 
+   agrad_capi_lib  
+   agrad_cong_naci  
+   agrad_cong_inter 
+   otros_agrad
    premios
-   produc_acde
+   art_public
+   art_mem_ext
+   congr_inter
+   congr_nacio  
+   congr_local 
+   comite
+   cursos_regu
+   cursos_especia
    tesis_lice
+   produc_acde
+   acti_dif_ext
+
 

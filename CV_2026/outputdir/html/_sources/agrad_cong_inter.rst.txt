@@ -1,7 +1,7 @@
 Agradecimientos en congresos internacionales
 ============================================
 
-1, Espinosa-Méndez, M., Ramírez-González, D., Díaz-Patiño, J.C., Román-López, T.V., PasayeAlcaraz, E.H., Domínguez-Frausto, I., Zaldívar-Morales, E., Piña-Hernández, A., Medina-Rivera, A., Ruiz-Contreras, A.E., , Rentería, M., Alcauter, S., “The topology of the brain functional connectome and its association with cognitive performance”, Neuroscienc SfN, November 15–19, San Diego, E.U, Créditos en: Congreso internacional, noviembre de 2025.
+1. Espinosa-Méndez, M., Ramírez-González, D., Díaz-Patiño, J.C., Román-López, T.V., PasayeAlcaraz, E.H., Domínguez-Frausto, I., Zaldívar-Morales, E., Piña-Hernández, A., Medina-Rivera, A., Ruiz-Contreras, A.E., , Rentería, M., Alcauter, S., “The topology of the brain functional connectome and its association with cognitive performance”, Neuroscienc SfN, November 15–19, San Diego, E.U, Créditos en: Congreso internacional, noviembre de 2025.
 
 2. Piña Hernández, A., Espinosa Méndez, I., Atilano Barbosa, D., Barrios, F.A., “Socioemotional and cognitive domains in family members of feminicide victims in Mexico”, Neuroscienc SfN, November 15–19, San Diego, E.U, Créditos en: Congreso internacional, noviembre de 2025.
 

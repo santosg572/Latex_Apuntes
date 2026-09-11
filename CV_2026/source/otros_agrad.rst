@@ -117,128 +117,63 @@ Otros agradecimientos
 
 58. Hernandez-Rios, E.N, Barrios, A.F., Utilización de programas para el analisís de imágenes como apoyo a la investigación en el INB, Créditos en: Otro, 2009.
 
-59. García-Solís, P., Anguiano, B., Delgado, G., Aceves, C., “Diferencias de señalización y captura del yodo molecular 
-(I2) 
-en la glándula mamaria lactante, virgen y neoplástica”, Jornadas del Instituto de Neurobiología, Sep. 19-23, Querétaro, México, Créditos en: Otro, 2005.
+59. García-Solís, P., Anguiano, B., Delgado, G., Aceves, C., “Diferencias de señalización y captura del yodo molecular (I2) en la glándula mamaria lactante, virgen y neoplástica”, Jornadas del Instituto de Neurobiología, Sep. 19-23, Querétaro, México, Créditos en: Otro, 2005.
 
-60. Ortiz, J. J., harmony, T., Fernández-Bouzas, A., Barrios, F., A., “Espectroscopia por resonancia magnética en 1.0T en 
-infantes”, Jornadas del Instituto de Neurobiología, Sep. 19-23, Querétaro, México, Créditos en: Otro, 2005.
+60. Ortiz, J. J., harmony, T., Fernández-Bouzas, A., Barrios, F., A., “Espectroscopia por resonancia magnética en 1.0T en infantes”, Jornadas del Instituto de Neurobiología, Sep. 19-23, Querétaro, México, Créditos en: Otro, 2005.
 
-61. Castillo, C. G., Mendoza, M. S., Falcón, A., Aguilar, M. B., Giordano, M., “Cuantificación de gaba liberado por una 
-línea 
-celular estriatal inmortalizada y trasnfectada con el cdna del gad67h”, Jornadas del Instituto de Neurobiología, Sep. 19-23, 
-Querétaro, México, Créditos en: Otro, 2005.
+61. Castillo, C. G., Mendoza, M. S., Falcón, A., Aguilar, M. B., Giordano, M., “Cuantificación de gaba liberado por una línea celular estriatal inmortalizada y trasnfectada con el cdna del gad67h”, Jornadas del Instituto de Neurobiología, Sep. 19-23, Querétaro, México, Créditos en: Otro, 2005.
 
-62. León-Jacinto, U., Quitarte, G., Serafín-López, N., Aguilar-Vázquez, A., Beltrán-Campos, V., Prado-Alcalá, 
-Díaz-Miranda, 
-S., Y., “Cambios en densidad y tipo de espinas dendríticas en el hipocampo asociados a una tarea de sobreentrenamiento”, 
-Jornadas del Instituto de Neurobiología, Sep. 19-23, Querétaro, México, Créditos en: Otro, 2005.
+62. León-Jacinto, U., Quitarte, G., Serafín-López, N., Aguilar-Vázquez, A., Beltrán-Campos, V., Prado-Alcalá, Díaz-Miranda, S., Y., “Cambios en densidad y tipo de espinas dendríticas en el hipocampo asociados a una tarea de sobreentrenamiento”, Jornadas del Instituto de Neurobiología, Sep. 19-23, Querétaro, México, Créditos en: Otro, 2005.
 
-63. Aranda-López, N., Delgado, G., Aceves, C., Anguiano-Serrando, B. “Actividad desyodativa tipo I (dio 1) durante la 
-ontogenia del epidídimo”, Jornadas del Instituto de Neurobiología, Sep. 19-23, Querétaro, México, Créditos en: Otro, 2005.
+63. Aranda-López, N., Delgado, G., Aceves, C., Anguiano-Serrando, B. “Actividad desyodativa tipo I (dio 1) durante la ontogenia del epidídimo”, Jornadas del Instituto de Neurobiología, Sep. 19-23, Querétaro, México, Créditos en: Otro, 2005.
 
-64. Arroyo-Helguera, O., Aceves, C., “Captura y efecto atiproliferativo del yodo molecular (I2) en cultivos celulares de 
-cancer mamario”, Jornadas del Instituto de Neurobiología, Sep. 19-23, Querétaro, México, Créditos en: Otro, 2005.
+64. Arroyo-Helguera, O., Aceves, C., “Captura y efecto atiproliferativo del yodo molecular (I2) en cultivos celulares de cancer mamario”, Jornadas del Instituto de Neurobiología, Sep. 19-23, Querétaro, México, Créditos en: Otro, 2005.
 
-65. Sandoval-Minero, M. T., Varela-Echavarría, A., “Interacciones axonales entre neuronas decusantes como un mecanismo 
-para 
-el cruce de la línea media en vertebrados”, Jornadas del Instituto de Neurobiología, Sep. 19-23, Querétaro, México, Créditos 
-en: Otro, 2005.
+65. Sandoval-Minero, M. T., Varela-Echavarría, A., “Interacciones axonales entre neuronas decusantes como un mecanismo para el cruce de la línea media en vertebrados”, Jornadas del Instituto de Neurobiología, Sep. 19-23, Querétaro, México, Créditos en: Otro, 2005.
 
-66. López-Juárez, A., Aceves, C., Delgado, G., Anguiano, B., “La actividad sexual incrementa la producción local 
-triyodotironina (T3) en el lóbulo ventral de la próstata”, Jornadas del Instituto de
-Neurobiología, Sep. 19-23, Querétaro, México, Créditos en: Otro, 2005.
+66. López-Juárez, A., Aceves, C., Delgado, G., Anguiano, B., “La actividad sexual incrementa la producción local triyodotironina (T3) en el lóbulo ventral de la próstata”, Jornadas del Instituto deNeurobiología, Sep. 19-23, Querétaro, México, Créditos en: Otro, 2005.
 
-67. Beltrán-Campos, V., Rodríguez-Santillán, E., Quitarte, G., Serafín-López, N., Aguilar-Vázquez, A., Díaz’Miranda, S. 
-Y., 
-“Influencia estrogémica con la densidad de espinas dendríticas de las células piramidales del CA1 del hipocampo”, Jornadas 
-del Instituto de Neurobiología, Sep. 19-23, Querétaro, México, Créditos en: Otro, 2005.
+67. Beltrán-Campos, V., Rodríguez-Santillán, E., Quitarte, G., Serafín-López, N., Aguilar-Vázquez, A., Díaz’Miranda, S. Y., “Influencia estrogémica con la densidad de espinas dendríticas de las células piramidales del CA1 del hipocampo”, Jornadas del Instituto de Neurobiología, Sep. 19-23, Querétaro, México, Créditos en: Otro, 2005.
 
-68. Frías, C., Torrero, C., Regalado, M., Salas, M., “Desarrrollo de las células mitrales en ratas desnutridas 
-posnatalmente: 
-posibles alteraciones funcionales”, Jornadas del Instituto de Neurobiología, Sep. 19-23, Querétaro, México, Créditos en: 
-Otro, 2005.
+68. Frías, C., Torrero, C., Regalado, M., Salas, M., “Desarrrollo de las células mitrales en ratas desnutridas posnatalmente: posibles alteraciones funcionales”, Jornadas del Instituto de Neurobiología, Sep. 19-23, Querétaro, México, Créditos en: Otro, 2005.
 
-69. Tinajero, A., Ramos., M., E., Morales, T., “Respuesta diferencial de los núcleos hipotalámicos, paraventricular y 
-supraóptico, al estrés osmótico durantes el ciclo estral de la rata”, Jornadas del Instituto de Neurobiología, Sep. 19-23, 
-Querétaro, México, Créditos en: Otro, 2005.
+69. Tinajero, A., Ramos., M., E., Morales, T., “Respuesta diferencial de los núcleos hipotalámicos, paraventricular y supraóptico, al estrés osmótico durantes el ciclo estral de la rata”, Jornadas del Instituto de Neurobiología, Sep. 19-23, Querétaro, México, Créditos en: Otro, 2005.
 
-70. Aguilar-Vázquez, A., Martínez-Jaramillo, J., Beltrán-Campos, V., Díaz-Miranda, S. Y., “Influencia de los estrógenos en 
-la 
-plasticidad del hipocampo: espinogénesis”, Jornadas del Instituto de Neurobiología, Sep. 19-23, Querétaro, México, Créditos 
-en: Otro, 2005.
+70. Aguilar-Vázquez, A., Martínez-Jaramillo, J., Beltrán-Campos, V., Díaz-Miranda, S. Y., “Influencia de los estrógenos en la plasticidad del hipocampo: espinogénesis”, Jornadas del Instituto de Neurobiología, Sep. 19-23, Querétaro, México, Créditos en: Otro, 2005.
 
-71. Díaz del Guante, M.A., Quiroz, C., Garín-Aguilar, M.E., Quirarte, G.L. y Prado-Alcalá R. “Bloqueo temporal de la 
-amígdala: ¿Reconsolidación o evocación?”, Jornadas del Instituto de Neurobiología, Sep. 20-24, Querétaro, México, Créditos 
-en: Otro, 2004.
+71. Díaz del Guante, M.A., Quiroz, C., Garín-Aguilar, M.E., Quirarte, G.L. y Prado-Alcalá R. “Bloqueo temporal de la amígdala: ¿Reconsolidación o evocación?”, Jornadas del Instituto de Neurobiología, Sep. 20-24, Querétaro, México, Créditos en: Otro, 2004.
 
-72. Delgado, G., Anguiano, B., Aceves, C. “La interacción hormonas tiroideas-acido retinoico es necesaria para antener la 
-diferenciación del epitelio en carcinomas mamarios”, Jornadas del Instituto de Neurobiología, Sep. 20-24, Querétaro, México, 
-Créditos en: Otro, 2004.
+72. Delgado, G., Anguiano, B., Aceves, C. “La interacción hormonas tiroideas-acido retinoico es necesaria para antener la diferenciación del epitelio en carcinomas mamarios”, Jornadas del Instituto de Neurobiología, Sep. 20-24, Querétaro, México, Créditos en: Otro, 2004.
 
-73. Martínez, Y., Díaz-Cintra, S., Díaz del Guante, M., Aguilar A., Cárabez-Trejo, A., Quirarte G. L., Prado-Alcalá R., 
-“Hipocampo Senil: Un estudio conductal y molfológico”, Jornadas del Instituto de Neurobiología, Sep. 20-24, Querétaro, 
-México., Créditos en: Otro, 2004.
+73. Martínez, Y., Díaz-Cintra, S., Díaz del Guante, M., Aguilar A., Cárabez-Trejo, A., Quirarte G. L., Prado-Alcalá R., “Hipocampo Senil: Un estudio conductal y molfológico”, Jornadas del Instituto de Neurobiología, Sep. 20-24, Querétaro, México., Créditos en: Otro, 2004.
 
-74. Quiroz, C., Díaz del Guante, M. A., Garín-Aguilar, M. E., Quirarte, G. L., Prado-Alcalá R., “Inactivación del Hipocampo 
-Dorsal: Efectos sobre la retención de la memoria evocada de dos diferentes niveles de reforzamiento”, Jornadas del Instituto 
-de Neurobiología, Sep. 20-24, Querétaro, México, Créditos en: Otro, 2004.
+74. Quiroz, C., Díaz del Guante, M. A., Garín-Aguilar, M. E., Quirarte, G. L., Prado-Alcalá R., “Inactivación del Hipocampo Dorsal: Efectos sobre la retención de la memoria evocada de dos diferentes niveles de reforzamiento”, Jornadas del Instituto de Neurobiología, Sep. 20-24, Querétaro, México, Créditos en: Otro, 2004.
 
-75. Cepeda Nieto, A. C., Pfaff, S. , Varela-Echavarría, A., “Diferenciación y proyección de las neuronas ticuloespinales 
-romboencefálicas”, Jornadas del Instituto de Neurobiología, Sep. 20-24, Querétaro, México, Créditos en: Otro, 2004.
+75. Cepeda Nieto, A. C., Pfaff, S. , Varela-Echavarría, A., “Diferenciación y proyección de las neuronas ticuloespinales romboencefálicas”, Jornadas del Instituto de Neurobiología, Sep. 20-24, Querétaro, México, Créditos en: Otro, 2004.
 
-76. Soriano, O., Anguiano, B., Aceves, C., “Inhibición del efecto protector del lugol por progesterona en el cáncer mamario 
-inducido por 7,12-dimetilbenzeno[a]antraceno (DMBA)”, Jornadas del Instituto de Neurobiología, Sep. 20-24, Querétaro, México, 
-Créditos en: Otro, 2004.
+76. Soriano, O., Anguiano, B., Aceves, C., “Inhibición del efecto protector del lugol por progesterona en el cáncer mamario inducido por 7,12-dimetilbenzeno[a]antraceno (DMBA)”, Jornadas del Instituto de Neurobiología, Sep. 20-24, Querétaro, México, Créditos en: Otro, 2004.
 
-77. Sandoval-Minero, M.T., Varela-Echavarría, A., “Regulación de la proyección axonal de neuronas decusantes en el 
-rombencéfalo caudal”, Jornadas del Instituto de Neurobiología, 20 al 24 de Sep, Créditos en: Otro, 2004.
+77. Sandoval-Minero, M.T., Varela-Echavarría, A., “Regulación de la proyección axonal de neuronas decusantes en el rombencéfalo caudal”, Jornadas del Instituto de Neurobiología, 20 al 24 de Sep, Créditos en: Otro, 2004.
 
-78. Castillo, R. A., Villalobos, M. S., Galindo, L. E., Quirarte G. L., Prado-Alcalá R. “Efectos de la inactivación 
-reversible del estriado sobre la evocación de la memoria de un aprendizaje incrementado”, Jornadas del Instituto de 
-Neurobiología, Sep. 22-26, Querétaro, México, Créditos en: Otro, 2003.
+78. Castillo, R. A., Villalobos, M. S., Galindo, L. E., Quirarte G. L., Prado-Alcalá R. “Efectos de la inactivación reversible del estriado sobre la evocación de la memoria de un aprendizaje incrementado”, Jornadas del Instituto de Neurobiología, Sep. 22-26, Querétaro, México, Créditos en: Otro, 2003.
 
-79. Rojas-Huidobro, R., Aceves C., “Efecto Protector de T4 y KI en la inducción del cáncer mamario por 7, 
-12-dimetilbenzo[a] 
-antraceno (DMBA) en ratas púberes”, Jornadas del Instituto de Neurobiología, Sep. 22-26, Querétaro, México, Créditos en: 
-Otro, 2003.
+79. Rojas-Huidobro, R., Aceves C., “Efecto Protector de T4 y KI en la inducción del cáncer mamario por 7, 12-dimetilbenzo[a] antraceno (DMBA) en ratas púberes”, Jornadas del Instituto de Neurobiología, Sep. 22-26, Querétaro, México, Créditos en: Otro, 2003.
 
-80. Quiroz C., Quirarte G. L., Prado-Alcalá R., “El sobrerreforzamiento impide la deficiencia en la retención inducida por 
-la 
-aplicación pre-entrenamiento de TTX en el hipocampo”, Jornadas del Instituto de Neurobiología, Sep. 22-26, Querétaro, México, 
-Créditos en: Otro, 2003.
+80. Quiroz C., Quirarte G. L., Prado-Alcalá R., “El sobrerreforzamiento impide la deficiencia en la retención inducida por la aplicación pre-entrenamiento de TTX en el hipocampo”, Jornadas del Instituto de Neurobiología, Sep. 22-26, Querétaro, México, Créditos en: Otro, 2003.
 
-81. Granados-Rojas, L., Sánchez, A., Aguilar, A., Quirarte G. L., Prado-Alcalá R., Díaz-Cintra, S., “Crecimiento de fibras 
-musgosas después del sobreentrenamiento en el laberinto acuático de morris en ratas con malnutrición hipoproteínica prenatal, 
-crónica y postnatal”, Jornadas del Instituto de Neurobiología, Sep. 22-26, Querétaro, México, Créditos en: Otro, 2003.
+81. Granados-Rojas, L., Sánchez, A., Aguilar, A., Quirarte G. L., Prado-Alcalá R., Díaz-Cintra, S., “Crecimiento de fibras musgosas después del sobreentrenamiento en el laberinto acuático de morris en ratas con malnutrición hipoproteínica prenatal, crónica y postnatal”, Jornadas del Instituto de Neurobiología, Sep. 22-26, Querétaro, México, Créditos en: Otro, 2003.
 
-82. Aguilar Vázquez, A., Granados-Rojas, L. y Díaz-Cintra S., “Estudio inmunocitoquimico de las
-células gabaergicas en el hipocampo de la rata con malnutrición hipoproteínica crónica de 30 y 60 días de edad”, Jornadas del 
-Instituto de Neurobiología, Sep. 22-26, Querétaro, México, Créditos en: Otro, 2003.
+82. Aguilar Vázquez, A., Granados-Rojas, L. y Díaz-Cintra S., “Estudio inmunocitoquimico de las células gabaergicas en el hipocampo de la rata con malnutrición hipoproteínica crónica de 30 y 60 días de edad”, Jornadas del Instituto de Neurobiología, Sep. 22-26, Querétaro, México, Créditos en: Otro, 2003.
 
-83.  Quiroz, C., Garín-Aguilar, M. E., Morales T., Quirarte G. L., Prado-Alcalá R. “Efecto de la tetrodotoxina (TTX) en el 
-hipocampo de ratas: expresión de C-FOS inducida por ácido kaínico (AK) y pentilenetetrazol (PTZ) como indicador de 
-inactivación”, Jornadas del Instituto de Neurobiología, Sep. 22-26, Querétaro, México, Créditos en: Otro, 2003.
+83.  Quiroz, C., Garín-Aguilar, M. E., Morales T., Quirarte G. L., Prado-Alcalá R. “Efecto de la tetrodotoxina (TTX) en el hipocampo de ratas: expresión de C-FOS inducida por ácido kaínico (AK) y pentilenetetrazol (PTZ) como indicador de inactivación”, Jornadas del Instituto de Neurobiología, Sep. 22-26, Querétaro, México, Créditos en: Otro, 2003.
 
-84. Teja, I. S., Prado-Alcalá R. Quirarte, G. L., “Participación de los receptores a corticosterona estriatales en la 
-memoria 
-de una tarea de evitación inhibitoria”, Jornadas del Instituto de Neurobiología, Sep. 22-26, Querétaro, México, Créditos en: 
-Otro, 2003.
+84. Teja, I. S., Prado-Alcalá R. Quirarte, G. L., “Participación de los receptores a corticosterona estriatales en la memoria de una tarea de evitación inhibitoria”, Jornadas del Instituto de Neurobiología, Sep. 22-26, Querétaro, México, Créditos en: Otro, 2003.
 
-85. Moreno-Ocaña, G., Martínez-Cabrera, G., Varela-Echavarría, A., A., Condés-Lara, M., LarrivaSahd, J., “Neuronas 
-interfasciculares de la comisura anterior: Caracterización citológica e interacciones locales”, Jornadas del Instituto de 
-Neurobiología, Sep. 23-27, Querétaro, México, Créditos en: Otro, 2002.
+85. Moreno-Ocaña, G., Martínez-Cabrera, G., Varela-Echavarría, A., A., Condés-Lara, M., LarrivaSahd, J., “Neuronas interfasciculares de la comisura anterior: Caracterización citológica e interacciones locales”, Jornadas del Instituto de Neurobiología, Sep. 23-27, Querétaro, México, Créditos en: Otro, 2002.
 
-86. Sánchez, A., Granados-Rojas, L., Pineda, T., Aguilar, A., Prado-Alcalá, R. Quirarte, G. L., DíazCintra, S., “Efecto del 
-sobre entrenamiento en el laberinto acuático de morris sobre la plasticidad sináptica de las fibras musgosas en ratas 
-malnutridas”, Jornadas del Instituto de Neurobiología, Sep. 23-27, Querétaro, México, Créditos en: Otro, 2002.
+86. Sánchez, A., Granados-Rojas, L., Pineda, T., Aguilar, A., Prado-Alcalá, R. Quirarte, G. L., DíazCintra, S., “Efecto del sobre entrenamiento en el laberinto acuático de morris sobre la plasticidad sináptica de las fibras musgosas en ratas malnutridas”, Jornadas del Instituto de Neurobiología, Sep. 23-27, Querétaro, México, Créditos en: Otro, 2002.
 
-87. Reyes-Haro, D., Miledi, R., García-Colunga, J., “Transmisión serotonérgica en el cuerpo calloso de la rata”, Jornadas 
-del 
-Instituto de Neurobiología, Sep. 23-27, Querétaro, México, Créditos en: Otro, 2002.
+87. Reyes-Haro, D., Miledi, R., García-Colunga, J., “Transmisión serotonérgica en el cuerpo calloso de la rata”, Jornadas del Instituto de Neurobiología, Sep. 23-27, Querétaro, México, Créditos en: Otro, 2002.
 
-88. Aguilar-Vázquez, A., Granados-Rojas, L., Díaz-Cintra S., “Marcaje in vitro de vesículas sinápticas activas con FMI-43 
-en 
-el hipocampo de ratas de 220 días con malnutrición prenatal y crónica”, Jornadas del Instituto de Neurobiología, Sep. 23-27, 
-Querétaro, México, Créditos en: Otro, 2002.
+88. Aguilar-Vázquez, A., Granados-Rojas, L., Díaz-Cintra S., “Marcaje in vitro de vesículas sinápticas activas con FMI-43 en el hipocampo de ratas de 220 días con malnutrición prenatal y crónica”, Jornadas del Instituto de Neurobiología, Sep. 23-27, Querétaro, México, Créditos en: Otro, 2002.
 

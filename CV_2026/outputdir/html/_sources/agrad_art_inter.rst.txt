@@ -143,8 +143,7 @@ Agradecimientos en artículos internacionales
 
 71. Zugasti-Cruz, A., Maillo, M., López-Vera, E., Falcón, A., Heimer de la Cotera, E.P., Olivera, B., M., Aguilar, M.B., Amino acid sequence and biological activity of a gama-conotoxin-like peptide from the worm-hunting snail, Peptides 27, 506-611, 2006.
 
-72. Frias, C., Torrero, C., Regalado, M., and Salas., M., Organization of olfactory glomeruli in neonatally undernourished 
-rats, Nutritional Neuroscience, 1-7, 2006.
+72. Frias, C., Torrero, C., Regalado, M., and Salas., M., Organization of olfactory glomeruli in neonatally undernourished rats, Nutritional Neuroscience, 1-7, 2006.
 
 73. Aguilar, M. B. , Lopez-Vera, E., Imperial, J. S., Falcon, A., Olivera, B. M., De la Cotera, E. P., “Putative gamma-conotoxins in vermivorous cone snails: the case of Conus delessertii”, Peptides. 26:23-7, mayo de 2005.
 

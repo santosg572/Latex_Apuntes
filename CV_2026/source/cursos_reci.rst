@@ -5,7 +5,7 @@ Cursos recibidos
 
 2. **FSL**, Duración: 40 hrs, University of British Columbia, Vancouver, Canadá, junio de 2017, 
 
-3. **XNAT, Workshop}, 30 hrs, St Louis MO, Estados Unidos de América, junio de 2016.
+3. **XNAT, Workshop**, 30 hrs, St Louis MO, Estados Unidos de América, junio de 2016.
 
 4. **Míneria de datos y Datawarehouse**, Duración: 12 hrs, Facultad de Contaduría y Administración, UNAM, México, marzo de 2007.
 
